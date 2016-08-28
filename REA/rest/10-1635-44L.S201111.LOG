@@ -1,0 +1,46 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-12 15:08:41
+The operator was: rest
+The s-file content at creation:
+ 2011 1110 1635 44.0 L   4.704 -76.336 96.5  RSN 14 0.4 3.7LRSN                1
+ GAP=132        0.90       2.7     3.4  6.1 -0.2535E+01  0.2426E+01  0.2110E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20111110163544 L   I
+ 2011-11-10-1633-52S.COL___178                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PAL  HZ EP   1   1635 57.82                             166     0.4 8   23  15 
+ PAL  HN ES   1   1636  8.42                             166     0.4 8   23  15 
+ ANIL HZ IP     D 1636  3.32                             129    -0.210  106 103 
+ ANIL HE ES   1   1636 18.10                             129    -0.7 7  106 103 
+ ANIL HZ I        1636 20.80      3139.6 0.27                           106 103 
+ RREF HZ IP     D 1636  4.79                             128     0.210  112  79 
+ RREF HZ I        1636  5.66       693.6 0.27                           112  79 
+ RREF HE ES   1   1636 20.03                             128    -0.6 7  112  79 
+ TOL  SZ EP       1636  4.34                             127     0.010  113  97 
+ GUY  SZ EP   1   1636  5.57                             126     0.5 7  120  61 
+ GUY  SZ I        1636  7.19      1130.4 0.36                           120  61 
+ GUY  SE ES   1   1636 21.43                             126    -0.2 7  120  61 
+ HORQ SZ EP       1636  6.67                             121    -0.210  139 193 
+ HORQ SN ES   1   1636 25.07                             121     0.4 7  139 193 
+ HORQ SZ I        1636 28.76       668.2 0.31                           139 193 
+ HEL  HZ EP   1   1636 11.55                             113    -0.7 7  187  29 
+ HEL  HN ES   1   1636 34.04                             113    -0.3 7  187  29 
+ HEL  HZ I        1636 37.35       311.2 0.47                           187  29 
+ NOR  SZ EP   1   1636 12.08                             113     0.1 7  188  60 
+ NOR  SN ES   1   1636 34.28                             113     0.4 7  188  60 
+ PRA  HZ EP   1   1636 12.80                             112     0.1 7  195 124 
+ PRA  HN ES   1   1636 35.64                             112     0.5 7  195 124 
+ SOL  SZ EP       1636 14.21                             111     0.3 9  206 325 
+ POP2 HZ EP       1636 18.26                             108    -0.2 8  242 189 
+ POP2 HN ES       1636 45.21                             108    -0.2 8  242 189 
+ POP2 HZ I        1636 52.22       283.6 0.11                           242 189 
+ BET  SZ EP   1   1636 18.76                             107     0.2 6  245 156 
+ BET  SZ ES   1   1636 45.25                             107    -0.3 6  245 156 
+ VIL  SZ EP       1636 25.79                             104     0.5 7  301 102 
+ VIL  SN ES   1   1636 58.29                             104     0.7 5  301 102 
+ VIL  SZ I        1637  4.08       433.7 0.58                           301 102 
+ ZAR  HZ EP   1   1636 30.23                             102    -0.8 5  349  28 
+ ZAR  HZ I        1637  7.60       158.4 0.34                           349  28 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

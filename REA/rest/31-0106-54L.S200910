@@ -1,0 +1,77 @@
+ 2009 1031 0106 54.5 L   4.722 -76.140 92.1  RSN 11 0.5 3.9LRSN                1
+ GAP= 80        1.23       3.8     6.8 13.7  0.4828E+01  0.6834E+02  0.1422E+02E
+ Epicentro: ARGELIA - VALLE                                                    3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20091031010654 L   I
+ 2009-10-31-0105-18S.COL___093                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ANIL BE ES   1    1 7 25.32                             134     0.0 7   86 107 
+ RREF BE ES        1 7 27.41                             133     0.510   90  77 
+ GUY  HN ES        1 7 27.72                             129    -0.810  102  57 
+ MAL  SZ IP     C  1 7 18.94                             116     0.6 9  154 239 
+ MAL  SZ I         1 7 45.46      1632.5 0.37                           154 239 
+ HEL  BN ES   1    1 7 42.37                             113     0.1 7  176  23 
+ PRA  HE ES        1 7 42.69                             113     0.7 9  178 129 
+ MARA BZ IP     D  1 7 24.80                             109    -0.2 8  209 174 
+ MARA BN ES   1    1 7 47.59                             109    -1.2 6  209 174 
+ SOL  SZ EP   1    1 7 25.37                             108    -0.3 6  218 320 
+ SOL  SZ ES   2    1 7 50.64                             108     0.6 4  218 320 
+ SOL  SZ I         1 7 54.99       472.4 0.35                           218 320 
+ ANIL BZ IP     D  1 7 11.36                             134    -0.510   86 107 
+ ANIL BZ ES     C  1 7 25.28                                                    
+ ANIL BZ  AMSG     1 7 26.15     65948.0 0.36                                   
+ ANIL BZ  AMPG     1 7 11.53     23793.5 0.22                                   
+ ANIL BT ES     D  1 7 25.25                                                    
+ ANIL BT  AMSG     1 7 26.33     94503.3 0.44                                   
+ BAR2 SZ EP     D  1 7 47.27                                                    
+ BAR2 SZ ES     C  1 8 27.82                                                    
+ BAR2 SZ  AMPG     1 7 47.70       147.0 0.28                                   
+ BAR2 SZ  AMSG     1 8 29.75       364.5 0.50                                   
+ BET  SZ EP     C  1 7 28.17                             106            239 161 
+ BET  SZ I         1 7 29.40       769.4 0.44                           239 161 
+ BET  SZ ES     C  1 7 54.14                                                    
+ CHI  HT ES     C  1 8  5.02                                                    
+ CHI  HZ EP     C  1 7 33.82                                                    
+ CHI  HZ ES     C  1 8  4.94                                                    
+ CRU  SZ EP     C  1 7 42.80                                                    
+ CUM  SZ EP     C  1 7 54.90                              98            458 204 
+ CUM  SZ I         1 8 27.63       157.8 1.11                           458 204 
+ DBB  SZ EP     C  1 7 30.16                             105            254 358 
+ FLO2 BZ IP        1 7 40.04                                                    
+ GUY  HZ EP        1 7 13.89                             129            102  57 
+ HEL  BZ IP     D  1 7 21.02                             113            176  23 
+ HEL  BZ I         1 7 44.98       475.2 0.64                           176  23 
+ HEL  BZ ES     C  1 7 41.87                                                    
+ HEL  BT ES     D  1 7 42.01                                                    
+ MARA BT ES     C  1 7 47.57                                                    
+ OCA  SZ EP     C  1 7 59.75                                                    
+ OCA  SZ ES     C  1 8 50.46                                                    
+ OCA  SZ  AMPG     1 8  1.65       984.5 0.23                                   
+ OCA  SZ  AMSG     1 8 51.95      2189.0 0.80                                   
+ OTAV B2 ES     C  1 9  1.66                                                    
+ OTAV BZ ES     C  1 9  1.80                                                    
+ PCON BZ IP     D  1 7 31.85                                                    
+ PRA  HZ IP     D  1 7 21.39                             113     0.2 9  178 129 
+ PRA  HZ I         1 7 46.38      1737.2 0.44                           178 129 
+ PRA  HZ ES     C  1 7 42.74                                                    
+ PRA  HZ  AMPG     1 7 21.96      9526.5 0.32                                   
+ PRA  HZ  AMSG     1 7 43.16     15706.5 0.26                                   
+ PRA  HT ES     D  1 7 42.69                                                    
+ PRA  HT  AMSG     1 7 43.85     33827.7 0.36                                   
+ RREF BZ IP     D  1 7 12.90                             133             90  77 
+ RREF BZ I         1 7 28.81      3050.5 0.37                            90  77 
+ RREF BZ ES     C  1 7 27.52                                                    
+ RREF BZ  AMPG     1 7 13.16     12792.0 0.16                                   
+ RREF BZ  AMSG     1 7 28.50     91159.0 0.32                                   
+ RREF BT ES     D  1 7 27.53                                                    
+ RREF BT  AMSG     1 7 27.91     15872.8 0.28                                   
+ RUS  BT ES     C  1 8 24.37                                                    
+ RUS  BZ EP     C  1 7 44.75                                                    
+ RUS  BZ ES     C  1 8 24.70                                                    
+ SOTA BZ EP     D  1 7 34.05                                                    
+ YOP  HZ EP     C  1 7 51.59                                                    
+ YOP  HZ ES     C  1 8 37.17                                                    
+ YOP  HZ  AMPG     1 7 51.81      1634.5 0.38                                   
+ YOP  HZ  AMSG     1 8 38.10       910.5 0.70                                   
+ YOP  HT ES     C  1 8 36.82                                                    
+ YOP  HT  AMSG     1 8 38.45      2092.9 0.70                                   
+                                                                                

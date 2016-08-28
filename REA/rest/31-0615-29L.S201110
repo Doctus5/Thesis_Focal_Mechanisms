@@ -1,0 +1,72 @@
+ 2011 1031 0615 29.2 L   4.784 -76.146116.4  RSN 15 0.3 3.5LRSN                1
+ GAP=111        0.82       3.3     3.9  5.4 -0.2799E+01  0.3809E+01  0.4796E+00E
+ Epicentro: ARGELIA - VALLE                                                    3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20111031061529 L   I
+ 2011-10-31-0613-21S.COL___157                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PAL  HN ES   1    615 57.89                             169     0.6 7   20 311 
+ ANIL HN ES   1    616  4.02                             140    -0.3 7   89 111 
+ RREF HZ IP     D  615 49.64                             140     0.210   90  82 
+ RREF HZ I         615 50.58       429.0 0.27                            90  82 
+ RREF HE ES   1    616  4.87                             140    -0.4 7   90  82 
+ GUY  SE ES   1    616  6.06                             138     0.1 7   97  60 
+ HORQ SE ES   1    616 14.01                             123    -0.9 7  153 200 
+ NOR  SE ES   1    616 16.23                             121    -0.4 7  166  59 
+ HEL  HZ IP     D  615 56.32                             120    -0.3 9  170  24 
+ HEL  HZ I         616 20.26       113.0 0.56                           170  24 
+ PRA  HN ES   1    616 20.23                             118     0.4 7  183 130 
+ BAR2 SZ EP     D  616 20.72                                                    
+ BET  SZ EP     D  616  4.14                             110            245 161 
+ BET  SZ ES     D  616 31.62                                                    
+ ANIL HZ EP     D  615 48.70                                                    
+ ANIL HZ ES     C  616  3.15                                                    
+ ANIL HZ  AMPG     615 49.07     13933.0 0.26                                   
+ ANIL HZ  AMSG     616  4.03      8992.0 0.44                                   
+ ANIL HT ES     D  616  4.66                                                    
+ ANIL HT  AMSG     616  5.15     32206.4 0.40                                   
+ CRU  SZ EP     C  616 19.62                                                    
+ GUY  SZ EP     C  615 50.00                             138             97  60 
+ GUY  SZ I         616  8.97       867.9 0.47                            97  60 
+ GUY  SZ ES     C  616  6.09                                                    
+ GUY  SZ  AMSG     616  7.74      1383.5 0.26                                   
+ GUY  SZ  AMPG     615 50.86      1037.0 0.22                                   
+ GUY  ST ES     C  616  7.10                                                    
+ GUY  ST  AMSG     616  7.42      2673.0 0.28                                   
+ HORQ ST ES     D  616 14.28                                                    
+ HORQ SZ EP     D  615 54.70                             123            153 200 
+ HORQ SZ I         616 18.45       249.2 0.51                           153 200 
+ MARA HZ EP     D  616  1.95                             114            216 174 
+ NOR  SZ EP     D  615 55.90                             121            166  59 
+ NOR  SZ ES     D  616 17.19                                                    
+ NOR  SZ  AMSG     616 17.41       171.0 0.32                                   
+ NOR  SZ  AMPG     615 56.57        37.0 0.18                                   
+ OCA  SZ EP   1    616 34.08                              97    -0.1 3  494  39 
+ OCA  SZ I         617 28.09        61.7 0.71                           494  39 
+ OCA  SZ ES     D  617 23.47                                                    
+ PAL  HZ EP     D  615 44.91                             169             20 311 
+ PAL  HZ ES     D  615 58.91                                                    
+ PAL  HZ  AMPG     615 45.85     88268.5 0.12                                   
+ PAL  HZ  AMSG     615 59.10      21.5e4 0.14                                   
+ PAL  HT ES     C  615 58.65                                                    
+ PAL  HT  AMSG     615 59.08      94.7e4 0.20                                   
+ PAM  ST ES     C  617 19.45                                                    
+ POP2 HT ES     D  616 33.20                                                    
+ POP2 HZ EP   1    616  5.57                             110    -0.4 6  255 193 
+ POP2 HZ I         616 34.25       284.8 0.23                           255 193 
+ POP2 HZ ES     C  616 32.93                                                    
+ PRA  HZ IP     D  615 57.95                             118     0.3 9  183 130 
+ PRA  HZ I         616 21.64       767.8 0.38                           183 130 
+ PRA  HZ EP     D  615 57.95                                                    
+ PRA  HT ES     D  616 20.07                                                    
+ SOL  SZ EP     D  616  0.81                             114            212 319 
+ SOL  SZ I         616  1.23       754.4 0.14                           212 319 
+ TOL  SZ IP     C  615 49.60                             138             94 103 
+ VIL  SZ IP     D  616 10.34                                                    
+ VIL  SZ ES     C  616 42.28                                                    
+ VIL  SZ  AMPG     616 11.06       181.0 0.34                                   
+ VIL  SZ  AMSG     616 43.32       270.5 0.62                                   
+ VIL  ST ES     D  616 42.30                                                    
+ VIL  ST  AMSG     616 43.43       745.5 0.74                                   
+ ZAR  HZ EP     C  616 14.34                             104            332  25 
+ ZAR  HZ I         616 50.78        96.1 0.41                           332  25 
+                                                                                

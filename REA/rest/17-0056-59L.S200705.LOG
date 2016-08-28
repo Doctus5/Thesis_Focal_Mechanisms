@@ -1,0 +1,35 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-08 09:57:44
+The operator was: rest
+The s-file content at creation:
+ 2007  517 0056 59.1 L   4.739 -76.062129.1  RSN 11 0.7 3.7LRSN                1
+ GAP= 80        1.31       9.1     7.1 14.2 -0.8610E+01  0.3876E+02 -0.2275E+02E
+ Epicentro: ARGELIA - VALLE                                                    3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20070517005659 L   I
+ 2007-05-17-0056-00S.COL___018                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TOL  SZ EP        057 19.37                                    -0.310   82 102 
+ TOL  SZ I         057 19.87      2145.5  0.6                            82 102 
+ TOL  SZ ES   1    057 35.30                                    -0.4 7   82 102 
+ MAL  SZ EP        057 27.05                                     0.9 9  163 240 
+ MAL  SZ I         057 27.68       917.0  0.1                           163 240 
+ PRA  SZ IP     D  057 27.18                                    -0.1 9  173 132 
+ PRA  SZ ES   1    057 48.95                                    -0.3 7  173 132 
+ PRA  SZ I         057 51.77       282.3  0.9                           173 132 
+ ROSC BZ IP     C  057 30.57                                     0.8 9  193  86 
+ ROSC BZ I         057 31.26       218.9  0.7                           193  86 
+ SOL  SZ EP   1    057 31.92                                    -0.5 6  222 318 
+ 1151 HZ EP   1    057 37.82                                     0.7 6  259  93 
+ 1151 HE ES   2    058  7.12                                     0.4 4  259  93 
+ POP  SZ EP   1    057 37.13                                     0.2 6  259 191 
+ POP  SZ I         058  9.64       629.8  0.2                           259 191 
+ FLO  SZ EP   1    057 46.82                                    -1.5 5  360 172 
+ BAR  SZ EP   1    057 50.58                                    -0.7 4  383  56 
+ BAR  SZ ES   2    058 31.23                                    -0.7 3  383  56 
+ BAR  SZ I         058 31.71        75.1  0.6                           383  56 
+ CUM  SZ EP   1    058  1.04                                    -1.2 4  472 205 
+ OCA  SZ EP   1    058  3.56                                    -0.6 3  492  38 
+ OCA  SZ I         058 54.93       187.0  0.9                           492  38 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

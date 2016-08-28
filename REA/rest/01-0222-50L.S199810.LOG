@@ -1,0 +1,39 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-02 13:28:31
+The operator was: rest
+The s-file content at creation:
+ 1998 10 1 0222 50.5 L   4.960 -76.070124.1  RSN 10 0.7 3.3LRSN                1
+ GAP=112        0.89       5.0     5.3 13.6 -0.1750E+01  0.7737E+01  0.1399E+02E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:19981001022250 L   I
+ 1998-10-01-0222-08S.COL___010                                                 6
+ 1998 10 1  222 49.8 L   4.953 -76.058130.0F COL 10 0.6 3.6LCOL                1
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TOL  SZ EP        223 11.47                                     0.210   91 117 
+ TOL  SZ ES   3    223 27.51                                     0.1 2   91 117 
+ TOL  SZ I      D  223 29.77       818.6  0.8                            91 117 
+ HEL  SZ IP     C  223 16.62                                    -0.1 9  152  22 
+ HEL  SZ ES   3    223 36.05                                    -1.1 2  152  22 
+ HEL  SZ I      C  223 36.97       399.6  0.6                           152  22 
+ SOL  SZ EP   0 D  223 22.99                                    -0.3 8  219 315 
+ SOL  SZ I      D  223 24.29       106.6  0.3                           219 315 
+ SOL  SZ ES   3    223 49.46                                     0.7 2  219 315 
+ CHI  SZ EP   0    223 29.53                                     0.9 8  262  98 
+ CHI  SZ ES   3    223 57.50                                    -0.8 2  262  98 
+ CHI  SZ I      C  224  8.70       104.4  0.8                           262  98 
+ MUN  SZ EP        223 32.34                                     0.2 7  292 200 
+ MUN  SZ ES   3    224  2.94                                    -1.6 2  292 200 
+ MUN  SZ I         224  9.26        78.8  0.3                           292 200 
+ RUS  SZ EP        223 38.36                                    -0.4 6  349  72 
+ RUS  SZ ES   3    224 14.94                                    -1.4 2  349  72 
+ RUS  SZ I      C  224 17.86        57.6  1.0                           349  72 
+ BAR  SZ EP        223 40.75                                    -0.3 6  371  60 
+ BAR  SZ ES   3    224 18.24                                    -2.3 2  371  60 
+ BAR  SZ I         224 23.46        58.5  0.7                           371  60 
+ CRU  SZ EP        223 43.93                                    -0.2 6  395 194 
+ CRU  SZ I      D  223 47.88       106.2  0.5                           395 194 
+ CRU  SZ ES   3    224 23.46                                    -2.5 1  395 194 
+ GUA  SZ EP        223 51.90                                    -0.3 5  466 125 
+ CUM  SZ EP        223 56.47                                     0.3 4  494 204 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

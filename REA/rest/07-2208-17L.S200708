@@ -1,0 +1,66 @@
+ 2007  8 7 2208 17.8 L   4.637 -76.331122.7  RSN 15 1.0 3.9LRSN                1
+ GAP= 88        1.41       7.3     6.3 15.3 -0.1365E+02  0.9999E+01  0.9015E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20070807220817 L   I
+ 2007-08-07-2207-00S.COL___023                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ROSC BE ES   2   22 9 18.36                                     0.6 4  223  84 
+ GCAL BE ES   2   22 9 52.04                                    -1.5 3  397 198 
+ TUM  HE ES   2   22 9 54.30                                    -0.9 3  408 221 
+ CHI  HZ EP     C 22 8 59.56                                            289  90 
+ CHI  HZ ES     D 22 9 31.58                                            289  90 
+ CHI  HZ  AMSG    22 9 35.01         0.0 0.88                                   
+ CHI  HZ  AMPG    22 9  0.09         0.0 0.52                                   
+ CHI  HT ES     C 22 9 32.14                                                    
+ CHI  HT  AMSG    22 9 32.89         0.0 1.56                                   
+ CRU  SZ EP     D 22 9  6.11                                            346 191 
+ CRU  SZ ES     C 22 9 41.67                                            346 191 
+ CRU  SZ I        22 9 47.86       326.8 0.50                           346 191 
+ CRU  SZ  AMSG    22 9 42.70      1479.0 0.30                                   
+ CRU  SZ  AMPG    22 9  6.90      4329.5 0.20                                   
+ CUM  SZ EP     D 22 9 17.14                                            450 202 
+ CUM  SZ I        2210 16.72        94.3 0.50                           450 202 
+ FLO  SZ EP     D 22 9  5.23                                            354 167 
+ FLO  SZ I        22 9 43.52       275.9 1.10                           354 167 
+ FLO  SZ ES     C 22 9 41.75       275.9 1.10                           354 167 
+ FLO  SZ  AMSG    22 9 42.97      2202.0 0.43                                   
+ FLO  SZ  AMPG    22 9  5.93      2952.5 0.23                                   
+ GUA  SZ EP     C 22 9 19.72                                            472 119 
+ GUA  SZ I        22 9 20.03        44.5 0.30                           472 119 
+ GUA  SZ  AMPG    22 9 19.93      1169.0 0.10                                   
+ BAR  SZ EP     D 22 9 12.87                                            414  57 
+ BAR  SZ I        2210  1.90       107.3 0.60                           414  57 
+ BAR  SZ ES     D 22 9 56.08       107.3 0.60                           414  57 
+ BAR  SZ  AMSG    22 9 56.63      1489.0 0.20                                   
+ BAR  SZ  AMPG    22 9 13.70       332.0 0.17                                   
+ MAL  SZ EP     C 22 8 42.95                                            131 238 
+ MAL  SZ ES   2   22 8 59.93                                     0.2 5  131 238 
+ MAL  SZ I        22 9 10.42      1626.8 0.50                           131 238 
+ OCA  SZ EP     C 22 9 25.48                                            519  40 
+ OCA  SZ ES     D 2210 17.48                                            519  40 
+ OCA  SZ I        2210 23.35       270.4 0.50                           519  40 
+ OCA  SZ  AMSG    22 9 26.20      2378.5 0.13                                   
+ POP  SZ EP     D 22 8 54.02                                            243 185 
+ POP  SZ ES     C 22 9 20.94                                            243 185 
+ POP  SZ I        22 9 22.62      1916.6 0.20                           243 185 
+ POP  SZ  AMSG    22 9 21.36     14602.5 0.27                                   
+ POP  SZ  AMPG    22 8 54.36      2697.5 0.10                                   
+ PRA  SZ EP     C 22 8 47.72                                            190 123 
+ PRA  SZ ES     D 22 9 10.14                                            190 123 
+ PRA  SZ I        22 9 12.20      2047.2 1.10                           190 123 
+ PRA  SZ  AMSG    22 9 10.98     18187.5 0.20                                   
+ PRA  SZ  AMPG    22 8 48.25     22942.0 0.10                                   
+ ROSC BZ EP     D 22 8 52.79                                            223  84 
+ ROSC BZ I        22 9 22.56       426.1 0.50                           223  84 
+ ROSC BZ  AMPG    22 8 54.03      8395.0 0.45                                   
+ ROSC BT ES     C 22 9 20.18                                                    
+ ROSC BT  AMSG    22 9 20.64     17614.8 1.30                                   
+ SOL  SZ EP     C 22 8 49.98                                            213 326 
+ SOL  SZ ES   2   22 9 13.18                                    -1.5 4  213 326 
+ SOL  SZ I        22 9 17.57       609.3 0.30                           213 326 
+ TOL  SZ IP     D 22 8 39.70                                            110  93 
+ TOL  SZ ES     D 22 8 56.57                                            110  93 
+ TOL  SZ I        22 8 58.14      5033.3 0.20                           110  93 
+ TOL  SZ  AMSG    22 8 57.47     86276.0 0.23                                   
+ TOL  SZ  AMPG    22 8 40.06      11.0e4 0.17                                   
+                                                                                

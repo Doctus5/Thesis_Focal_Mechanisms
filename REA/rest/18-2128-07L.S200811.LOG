@@ -1,0 +1,47 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-08 09:57:46
+The operator was: rest
+The s-file content at creation:
+ 2008 1118 2128  7.7 L   4.946 -76.162100.2  RSN 16 0.6 3.5LRSN                1
+ GAP= 84        1.38       5.3     6.7 13.3 -0.8051E+01  0.3573E+02 -0.8808E+01E
+ Epicentro: SAN JOSE DEL PALMAR - CHOCO                                        3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20081118212807 L   I
+ 2008-11-18-2127-04S.COL___049                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RREF BZ IP     C 2128 26.85                             135     0.210   91  93 
+ RREF BE ES   2   2128 41.38                             135     0.0 5   91  93 
+ ANIL BZ IP     C 2128 26.55                             132    -0.310   98 121 
+ ANIL BN ES   1   2128 41.82                             132     0.1 7   98 121 
+ TOL  SZ IP     C 2128 26.33                             131    -0.910  102 113 
+ TOL  SZ ES   2   2128 41.79                             131    -0.6 5  102 113 
+ HEL  BZ IP     D 2128 32.38                             119    -0.2 9  154  27 
+ HEL  BE ES   1   2128 52.01                             119     0.0 7  154  27 
+ HEL  BZ I        2128 54.19       168.5 0.43                           154  27 
+ MAL  SZ IP     C 2128 34.28                             116     0.9 9  166 232 
+ MAL  SZ ES   2   2128 53.71                             116     0.3 5  166 232 
+ MAL  SZ I        2129  7.22       412.5 0.41                           166 232 
+ SOL  SZ EP   2   2128 36.07                             112    -0.8 4  198 316 
+ SOL  SZ I        2129  8.34       147.9 0.41                           198 316 
+ BET  SZ EP       2128 43.97                             106    -0.6 8  263 162 
+ BET  SZ I        2128 45.47       401.1 0.18                           263 162 
+ BET  SZ ES   1   2129 12.60                             106    -0.7 6  263 162 
+ CHI  HZ IP     C 2128 47.45                             106     1.4 8  272  97 
+ CHI  HZ I        2128 48.03       121.7 0.46                           272  97 
+ CHI  HE ES   2   2129 16.94                             106     0.9 4  272  97 
+ PCON BZ EP   1   2128 48.74                             105     0.2 5  291 185 
+ RUS  HZ EP       2128 56.90                             102     0.6 6  357  73 
+ RUS  HZ I        2128 58.22        39.6 0.28                           357  73 
+ BAR  SZ EP   2   2128 58.66                             101     0.2 3  377  61 
+ CRU  SZ EP   1   2128 58.97                             101    -0.5 4  384 193 
+ CRU  SZ I        2129 44.90       107.6 0.64                           384 193 
+ CAP2 HZ EP   1   2129  4.15                              99    -0.5 4  430 342 
+ CAP2 HZ I        2129  7.24       168.0 0.26                           430 342 
+ GCUF BZ EP   2   2129  5.16                              99    -0.3 3  432 198 
+ OCA  SZ EP   1   2129 10.52                                            481  41 
+ OCA  SZ ES   1   2129 58.88                                            481  41 
+ OCA  SZ I        2130  3.71       276.4 0.46                           481  41 
+ KEN  SZ EP   2   2129 40.14                              81    -0.3 1  720  19 
+ KEN  SZ I        2129 50.23        14.5 0.24                           720  19 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

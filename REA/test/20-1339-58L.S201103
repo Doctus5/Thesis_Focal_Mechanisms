@@ -1,0 +1,97 @@
+ 2011  320 1339 58.8 L   4.885 -76.281 96.1  RSN 23 0.5 4.4LRSN                1
+     234.3      82.3      43.6                               6    RSN PINV     F
+     138.0      43.0     160.9  8.5  8.8      0.09 0.60 0.00      RSN HASH     F
+     133.0      36.0     157.0  4.0  2.0  2.0  0.1  0.1           RSN FPFIT    F
+  238.3800   73.7300   53.3100                               3    RSN FOCMEC   F
+ GAP=102        1.13       3.7     5.9  9.6 -0.1087E+02  0.2897E+02 -0.4594E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ Evento Sentido                                                                3
+ Reportado como sentido:                                                       3
+ CALI, ZARZAL, CARTAGO, LA VICTORIA, YUMBO, EL CAIRO (VALLE), PEREIRA, DOS     3
+ QUEBRADAS,SANTA ROSA DE CABAL (RISARALDA), MANIZALES, VILLAMARIA (CALDAS)     3
+ ARMENIA, QUIMBAYA, MONTENEGRO, CIRCASIA, (QUINDIO), MEDELLIN (ANTIOQUIA)      3
+ IBAGUE (TOLIMA), QUIBDO (CHOCO)                                               3
+ ACTION:UP  11-06-16 14:34 OP:jfem STATUS:               ID:20110320133958 L   I
+ 2011-03-20-1339-00S.MAN___124                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO SNR AR TRES W  DIS CAZ7
+ RREF HN ES   1   1340 33.92                             131     0.0 7  104  89 
+ SOTA HZ IP     D 1340 41.15                             104    -0.1 7  306 187 
+ SOTA HZ I        1341 28.62      1668.4 0.57                           306 187 
+ RUS  HZ IP     C 1340 48.35                             101    -0.8 6  372  72 
+ RUS  HZ I        1341 49.60       325.9 0.63                           372  72 
+ TUM  HZ EP   2   1340 55.89                              99    -0.1 3  433 219 
+ TUM  HZ I        1342  2.95      1067.8 0.83                           433 219 
+ ANIL HE ES     D 1340 33.33                                                    
+ ANIL HN ES     D 1340 33.33                             130            107 114 
+ BAR2 SZ IP     D 1340 50.53                             100            392  61 
+ BAR2 SZ I        1341 33.43       790.7 0.73                           392  61 
+ BCIP BZ EP     C 1341 17.83                              96            616 321 
+ BCIP BE ES     D 1342 20.19                              96            616 321 
+ BCIP BN ES     D 1342 20.21                                                    
+ CHI  HN ES     D 1341 10.58                                                    
+ CHI  HE ES     C 1341 10.47                                            284  96 
+ CHI  HZ IP     C 1340 39.49                                     1.0 7  284  96 
+ CHI  HZ I        1340 40.89      1353.4 0.60                           284  96 
+ CHI  HZ ES     D 1341 10.60                                                    
+ CIBA1EZ EP     D 1340 20.03                                                    
+ CIBA1EZ ES     C 1340 37.08                                                    
+ CIBA1EN ES     D 1340 37.20                                                    
+ CIBA1EE ES     C 1340 37.25                                                    
+ CPAS2EZ EP     D 1340 53.74                             100            419 195 
+ FLO2 HZ IP     D 1340 48.34                             101    -0.2 6  372 169 
+ FLO2 HZ I        1340 49.10       558.6 0.43                           372 169 
+ GCUF HZ EP     D 1340 54.58                             100            421 196 
+ GCUF HZ I        1341 51.78       452.6 0.24                           421 196 
+ GUY  SZ I        1340 36.78      8578.3 0.44                           108  69 
+ GUY  SZ IP     C 1340 19.14                                                    
+ GUY  SN ES     D 1340 34.90                             129            108  69 
+ GUY  SE ES     C 1340 34.95                                                    
+ HEL  HE ES     C 1340 45.20                             116            167  30 
+ HEL  HN ES     D 1340 45.20                                                    
+ HEL  HZ IP     D 1340 24.46                             116    -0.3 9  167  30 
+ HORQ SZ EP     D 1340 23.98                             117            160 194 
+ HORQ SZ I        1340 49.67      2844.5 0.44                           160 194 
+ HORQ SE ES     C 1340 43.46                             117            160 194 
+ MANI EZ EP     C 1341  5.59                                                    
+ MANI EN ES     D 1341 20.80                                                    
+ MANI EE ES     D 1341 20.76                                                    
+ MARA HZ EP     D 1340 32.17                             109            229 171 
+ MARA HZ I        1340 59.61      1289.0 0.34                           229 171 
+ MARA HE ES     D 1340 56.80                             109            229 171 
+ MARA HN ES     C 1340 56.81                                                    
+ MON  HZ IP     D 1340 55.35                              99    -1.0 5  436   9 
+ MON  HZ ES     C 1341 34.90                                                    
+ MON  HE ES     C 1341 34.90                                                    
+ NOR  SE ES     D 1340 45.60                                                    
+ ANIL HZ IP     D 1340 18.21                             130            107 114 
+ ANIL HZ I        1340 35.36     19760.0 0.40                           107 114 
+ ANIL HZ ES     D 1340 33.36                                                    
+ NOR  SN ES     C 1340 45.60                             115            173  64 
+ NOR  SZ IP     D 1340 25.09                             115            173  64 
+ OTAV BZ EP     C 1341 11.04                              97            568 205 
+ OTAV BE ES     D 1342  8.72                                                    
+ OTAV BN ES     D 1342  8.70                                                    
+ PCON HZ IP     D 1340 39.03                             105     0.5 7  283 183 
+ PCON HZ I        1340 42.56      1187.4 0.65                           283 183 
+ POP2 HZ EP     D 1340 35.34                             106            263 190 
+ POP2 HZ I        1341  8.90      1313.8 0.42                           263 190 
+ POP2 HE ES     D 1341  5.37                                                    
+ PRA  HZ IP     D 1340 28.34                             112     0.0 9  202 130 
+ PRA  HZ I        1340 53.73      7916.9 0.18                           202 130 
+ PRA  HE ES     D 1340 51.87                             112            202 130 
+ PRA  HN ES     D 1340 51.83                                                    
+ RREF HZ IP     D 1340 18.83                             131     0.310  104  89 
+ RREF HZ I        1340 37.37      5494.3 0.30                           104  89 
+ RREF HE ES     D 1340 34.25                                                    
+ RUS  HE ES     C 1341 18.69                                                    
+ RUS  HN ES     C 1341 18.71                                                    
+ SDV  BZ EP     D 1341 34.11                                                    
+ TOL  SZ EP       1340 19.05                             128     0.110  112 107 
+ TOL  SZ IP     C 1340 19.05                                                    
+ TOL  SZ ES     C 1340 36.85                                                    
+ VIL  SZ I        1340 42.59      2577.0 0.58                           300 106 
+ VIL  SZ IP     D 1340 40.86                                                    
+ YOP  SZ IP     C 1340 55.81                              99            431  83 
+ YOP  SZ I        1340 59.83       385.6 0.88                           431  83 
+ VIL  SE ES     D 1341  8.94                                                    
+                                                                                

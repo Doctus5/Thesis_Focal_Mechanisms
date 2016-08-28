@@ -1,0 +1,94 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-03 20:42:28
+The operator was: test
+The s-file content at creation:
+ 2009 11 2 1218 51.8 L   4.691 -76.127 83.3  RSN 24 0.6 4.7LRSN                1
+     192.9      83.3      52.3                               6    RSN PINV     F
+      92.3      73.6    -158.9 21.3 23.8      0.18 0.50 0.00      RSN HASH     F
+  358.6800   64.3400  -56.3100                               4    RSN FOCMEC   F
+      88.0      68.0    -164.0  4.0  7.0 20.0  0.1  0.2           RSN FPFIT    F
+ GAP= 79        1.40       3.5     5.6 12.3 -0.2705E+01  0.3599E+02  0.4386E+01E
+ Epicentro: ARGELIA - VALLE                                                    3
+ Evento Sentido                                                                2
+ Reportado como Sentido:                                                       3
+ CALI, JAMUNDI, ROLDANILLO, FLORIDA (VALLE DEL CAUCA), MANIZALES (CALDAS),     3
+ ARMENIA, CALARCA (QUINDIO), LA VIRGINIA, PEREIRA (RISARALDA)                  3
+ ACTION:UP  10-02-04 18:21 OP:cab  STATUS:               ID:20091102121851 L   I
+ 2009-11-02-1217-15S.COL___093                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO SNR AR TRES W  DIS CAZ7
+ ANIL BN ES   2   1219 20.81                             131    -0.2 5   83 105 
+ BAR2 SZ IP     D 1219 43.97                              98            388  57 
+ BAR2 SZ ES     C 1220 26.43                                                    
+ ANIL BZ IP     D 1219  7.82                                                    
+ BCIP BZ IP     D 1220 13.06                                                    
+ BCIP BE ES     C 1221 18.38                                                    
+ BET  SZ IP     D 1219 24.52                             104            235 161 
+ BET  SZ I        1219 55.62      6668.0 0.66                           235 161 
+ BET  SZ ES     C 1219 51.25                                                    
+ BRR  HZ IP     C 1219 41.69                              98            378  45 
+ BRR  HZ I        1219 42.41       714.9 0.43                           378  45 
+ BRR  HE ES     D 1220 20.46                                                    
+ CHI  HZ IP     D 1219 30.34                             102            266  91 
+ CHI  HZ I        1219 31.24      2334.5 0.56                           266  91 
+ CHI  HN ES     D 1220  0.14                                                    
+ CHI  HE ES     C 1220  0.00                                                    
+ CIBA1EZ EP     D 1219  9.73                                                    
+ CLIM HZ EP     C 1219 52.12                              96            458 205 
+ CLIM HN ES     D 1220 41.99                                                    
+ CLIM HE ES     D 1220 42.10                                                    
+ CRU  SZ EP     C 1219 40.05                              99            357 195 
+ CRU  SZ I        1220 23.27      3913.5 0.82                           357 195 
+ CRU  SZ E      D 1219 40.05                                                    
+ CUM  SZ IP     D 1219 52.47                                                    
+ DBB  SZ IP     C 1219 27.91                             103            257 358 
+ FLO2 BZ EP     D 1219 36.98                              99            348 171 
+ FLO2 BZ I        1220 25.39      1533.6 0.68                           348 171 
+ FLO2 BN ES     C 1220 13.26                                                    
+ FLO2 BE ES     D 1220 13.26                                                    
+ GCAL SZ EP     C 1219 45.35                              97            410 201 
+ GCAL SE ES     C 1220 26.48                                                    
+ GCAL SN ES     D 1220 26.47                                                    
+ GUA  SZ IP     D 1219 51.26                              96            456 121 
+ GUA  SZ ES     C 1220 37.13                                                    
+ GUY  HZ IP     C 1219 10.25                             125            103  55 
+ GUY  HN ES     D 1219 25.20                             125            103  55 
+ GUY  HE ES     C 1219 25.20                                                    
+ HEL  BZ IP     C 1219 18.33                             110            179  22 
+ HEL  BZ I        1219 42.92      4666.8 0.76                           179  22 
+ HEL  BE ES     C 1219 40.21                                                    
+ HEL  BN ES     C 1219 40.21                             110            179  22 
+ MAL  SZ IP     C 1219 16.61                             113            154 241 
+ MAL  SZ I        1219 44.20     23519.1 0.64                           154 241 
+ MAP  HN ES     C 1221 10.36                                                    
+ MAP  HE ES     D 1221 10.36                                                    
+ MARA BZ IP     D 1219 21.73                             107            205 175 
+ MARA BN ES     D 1219 44.52                             107            205 175 
+ MARA BE ES     C 1219 44.52                                                    
+ OCA  SZ IP     D 1219 57.44                              96            500  38 
+ OCA  SZ ES     C 1220 49.18                                                    
+ OTAV BZ EP     C 1220  3.16                                                    
+ PCON BZ IP     D 1219 29.39                             103            263 187 
+ PCON BZ I        1220  6.02      6557.6 0.62                           263 187 
+ PCON BN ES     C 1219 57.96                                                    
+ PRA  HE ES     D 1219 38.70                             110            175 128 
+ PRA  HN ES     D 1219 38.70                                                    
+ PRA  HZ IP     D 1219 17.76                             110            175 128 
+ PRA  HZ I        1219 40.03      8957.1 0.84                           175 128 
+ RREF BZ IP     D 1219  9.25                             129             90  75 
+ RREF BZ I        1219 24.26     16745.7 0.64                            90  75 
+ RREF BE ES     D 1219 23.31                                                    
+ RREF BN ES     C 1219 23.31                             129             90  75 
+ RUS  BZ IP     C 1219 40.70                              99            363  68 
+ RUS  BN ES     D 1220 21.09                                                    
+ RUS  BE ES     C 1220 21.10                                                    
+ SDV  BZ EP     C 1220 28.30                                                    
+ SOL  SZ IP     D 1219 22.87                             105            221 320 
+ SOL  SZ I        1219 56.54      1841.9 0.46                           221 320 
+ SOTA BZ EP     C 1219 31.36                             101            288 191 
+ TUM  HZ EP     C 1219 46.84                              97            428 223 
+ TUM  HZ I        1221  0.68      1414.8 0.55                           428 223 
+ TUM  EN ES     D 1220 32.63                                                    
+ YOP  HZ IP     C 1219 48.06                              97            418  80 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

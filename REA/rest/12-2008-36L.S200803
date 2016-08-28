@@ -1,0 +1,32 @@
+ 2008  312 2008 36.0 L   4.613 -76.215114.0  RSN  6 0.5 3.3LRSN                1
+ GAP=239        0.95      10.1    10.4 14.0 -0.7810E+02  0.5423E+02  0.7615E+01E
+ Epicentro: VERSALLES - VALLE                                                  3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20080312200836 L   I
+ 2008-03-12-2007-00S.COL___012                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ROSC BN ES       20 9 33.15                             114     0.410  211  83 
+ CRU  SZ EP   1   20 9 24.55                             103     0.9 6  347 194 
+ CRU  SZ ES   1   2010  1.41                             103     0.7 6  347 194 
+ CRU  SZ I        2010  7.47       108.8 0.42                           347 194 
+ CUM  SZ EP       20 9 35.90                              99    -0.6 6  453 204 
+ CUM  SZ ES   1   2010 23.99                              99     0.4 4  453 204 
+ CUM  SZ I        2010 29.31        40.9 0.60                           453 204 
+ FLO  SZ EP     C 20 9 22.79                             103            349 169 
+ FLO  SZ I        20 9 23.18        61.9 0.31                           349 169 
+ FLO  SZ ES     C 2010  0.05                             103            349 169 
+ FLO  SZ  AMSG    2010  0.64       383.0 0.33                                   
+ FLO  SZ  AMPG    20 9 23.14      1088.0 0.27                                   
+ GUA  SZ EP     C 20 9 35.86                              98            459 120 
+ GUA  SZ ES   2   2010 23.64                              98    -0.4 3  459 120 
+ OCA  SZ EP     C 20 9 40.55                                                    
+ ROSC BZ EP     D 20 9  8.16                             114            211  83 
+ ROSC BZ I        20 9  8.94        86.2 0.59                           211  83 
+ ROSC BZ  AMPG    20 9  8.43      3550.0 0.45                                   
+ ROSC BT ES     C 20 9 34.45                                                    
+ ROSC BT  AMSG    20 9 35.14      2806.7 1.10                                   
+ TOL  SZ EP     D 20 8 55.68                             138             97  92 
+ TOL  SZ I        20 9 17.18      1216.4 0.50                            97  92 
+ TOL  SZ ES     C 20 9 11.57      1216.4 0.50                            97  92 
+ TOL  SZ  AMSG    20 9 12.22     11797.5 0.20                                   
+ TOL  SZ  AMPG    20 8 56.38     12380.5 0.27                                   
+                                                                                

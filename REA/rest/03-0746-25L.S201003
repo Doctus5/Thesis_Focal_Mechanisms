@@ -1,0 +1,108 @@
+ 2010  3 3 0746 25.9 L   4.801 -76.221107.6  RSN 22 0.6 4.0LRSN                1
+ GAP= 85        1.42       3.6     5.4 10.0 -0.3708E+01  0.3029E+02 -0.1303E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ Evento Sentido                                                                2
+ Reportado com Sentido:                                                        3
+ RIOSUCIO, MANIZALES, CHINCHINA (CALDAS), PEREIRA (RISARALDA), MONTENEGRO,     3
+ ARMENIA, (QUINDIO)                                                            3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20100303074625 L   I
+ 2010-03-03-0744-20S.COL___094                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ANIL BN ES        747  0.42                             135    -0.510   97 111 
+ RREF BE ES        747  2.44                             135     0.610   98  83 
+ GUY  HE ES   2    747  2.84                             132     0.1 5  106  64 
+ MAL  SZ IP     C  746 51.55                             121     1.1 9  151 235 
+ MAL  SZ ES   2    747 10.26                             121     0.7 5  151 235 
+ MAL  SZ I         747 23.16      2362.5 0.68                           151 235 
+ HEL  HE ES        747 14.22                             117    -0.1 9  172  26 
+ PRA  HE ES        747 17.74                             114     0.5 9  191 129 
+ MARA BN ES   1    747 22.70                             111    -0.7 6  219 172 
+ POP2 HE ES   1    747 30.07                             107    -0.7 6  255 191 
+ PCON BN ES   2    747 35.59                             106     0.1 4  274 184 
+ CHI  HE ES   2    747 35.78                             105     0.1 4  277  94 
+ GCAL SN ES   2    748  4.62                              97    -1.0 3  419 199 
+ MON  HZ EP        747 23.69                              96    -1.0 5  444   8 
+ MON  HZ I         748 14.38        58.2 0.41                           444   8 
+ OTAV B2 EP   1    747 38.82                              93    -0.7 3  562 206 
+ ANIL BZ IP     D  746 45.17                             135             97 111 
+ ANIL BZ ES     D  747  0.25                                                    
+ ANIL BZ  AMPG     746 45.56     41405.5 0.38                                   
+ ANIL BZ  AMSG     747  0.90      17.4e4 0.28                                   
+ ANIL BT ES     C  747  0.32                                                    
+ ANIL BT  AMSG     747  1.04      19.1e4 0.30                                   
+ BAR2 SZ EP     D  747 18.33                              99            390  59 
+ BCIP BZ EP     C  747 45.58                                                    
+ BRR  HZ IP     C  747 15.87                              99            377  47 
+ BRR  HZ I         747 57.92       256.7 0.34                           377  47 
+ BRR  HT ES     D  747 54.36                                                    
+ CHI  HZ IP     C  747  6.66                             105            277  94 
+ CHI  HZ I         747  7.58      1499.0 0.49                           277  94 
+ CHI  HZ  AMPG     747  7.01     15044.5 0.42                                   
+ CHI  HT ES        747 36.37                                                    
+ CHI  HT  AMSG     747 39.67      8379.6 0.64                                   
+ CIBA1EZ EP     D  746 49.76                                                    
+ CIBA1EZ ES     D  747  5.82                                                    
+ CIBA1EZ  AMSG     747  6.71       603.0 0.25                                   
+ CIBA1EZ  AMPG     746 50.36       154.0 0.25                                   
+ CIBA1ET ES     C  747  6.64                                                    
+ CIBA1ET  AMSG     747  7.08       495.0 0.23                                   
+ CRU  SZ EP     D  747 15.88                             100            367 193 
+ CRU  SZ ES   2    747 53.92                             100    -0.7 3  367 193 
+ CRU  SZ I         748  3.80       247.8 0.49                           367 193 
+ DBB  SZ EP     C  747  1.18                             108            245   0 
+ DBB  SZ ES   2    747 28.52                             108     0.2 4  245   0 
+ GCAL SZ EP     C  747 21.25                              97            419 199 
+ GCAL SZ I         748 18.17       642.3 0.33                           419 199 
+ GUY  HZ IP     C  746 46.75                                                    
+ GUY  HZ ES     D  747  3.95                                                    
+ HEL  HZ I         747 15.87      1915.7 0.54                           172  26 
+ HEL  HZ IP     D  746 52.54                                                    
+ HEL  HZ ES     C  747 14.66                                                    
+ HEL  HZ  AMSG     747 15.24     35083.5 0.54                                   
+ HEL  HZ  AMPG     746 53.46      5598.5 0.30                                   
+ HEL  HT ES     C  747 14.20                                                    
+ HEL  HT  AMSG     747 14.59     33918.2 0.86                                   
+ MARA BZ EP     C  746 58.31                             111            219 172 
+ MARA BZ  AMPG     746 59.06     27474.0 0.16                                   
+ MARA BT ES        747 22.59                                                    
+ MARA BT  AMSG     747 23.67     19138.0 0.28                                   
+ NOR  SZ EP     D  746 52.95                                                    
+ NOR  SZ ES     D  747 14.43                                                    
+ NOR  SZ  AMPG     746 53.77        67.5 0.37                                   
+ NOR  SZ  AMSG     747 15.92       124.0 0.43                                   
+ OCA  SZ IP     C  751 59.72                                                    
+ OCA  SZ ES     D  752 21.23                                                    
+ PCON BT ES     C  747 34.07                                                    
+ PCON BZ EP     D  747  5.61                             106            274 184 
+ PCON BZ I         747 42.61       416.5 0.47                           274 184 
+ POP2 HZ EP     D  747  1.68                             107            255 191 
+ POP2 HZ I         747 31.74       936.2 0.24                           255 191 
+ POP2 HZ ES     D  747 30.40                                                    
+ POP2 HT ES     C  747 30.65                                                    
+ PRA  HZ EP     C  746 55.05                             114            191 129 
+ PRA  HZ I         747 19.08      2792.2 0.57                           191 129 
+ PRA  HZ ES     D  747 17.72                                                    
+ PRA  HZ  AMPG     746 55.96     11242.5 0.24                                   
+ PRA  HZ  AMSG     747 18.97     26554.0 0.22                                   
+ PRA  HT ES     D  747 17.70                                                    
+ PRA  HT  AMSG     747 18.28     34413.7 0.60                                   
+ RREF BZ IP     D  746 46.33                             135             98  83 
+ RREF BZ I         747  4.56      9334.9 0.36                            98  83 
+ RREF BZ ES     D  747  3.23                                                    
+ RREF BZ  AMPG     746 47.04     96646.0 0.24                                   
+ RREF BZ  AMSG     747  3.36      21.8e4 0.38                                   
+ RREF BT ES     C  747  1.80                                                    
+ RREF BT  AMSG     747  3.09      16.9e4 0.46                                   
+ RUS  BZ EP     C  747 16.39                             100            368  71 
+ RUS  BZ I         747 56.27        95.6 0.62                           368  71 
+ SDV  BZ EP     C  748  2.51                              91            765  54 
+ SDV  BZ I         748  5.53        56.6 0.11                           765  54 
+ SOL  SZ IP     C  746 56.11                             112            205 320 
+ SOL  SZ I         747 22.75       548.7 0.25                           205 320 
+ SOTA BZ EP     D  747  7.58                             104            298 188 
+ SOTA BZ I         747 51.38       125.0 0.64                           298 188 
+ TOL  SZ EP     D  746 45.12                             133            103 103 
+ TOL  SZ ES     C  747  0.80                             133            103 103 
+ TOL  SZ  AMPG     746 45.51     27390.0 0.30                                   
+ TOL  SZ  AMSG     747  1.23     31290.0 0.22                                   
+                                                                                

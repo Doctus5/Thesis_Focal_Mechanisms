@@ -1,0 +1,37 @@
+ 2000  311 0107 12.5 L   4.651 -76.335126.4  RSN 10 0.9 4.1LRSN                1
+ GAP=149        1.51      11.1    11.0 23.3 -0.7236E+02 -0.3070E+02  0.5333E+02E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20000311010712 L   I
+ 2000-03-11-0106-05S.COL___010                                                 6
+ 2000  311  1 7 12.2 L   4.637 -76.334125.0F COL 10 0.9 4.3LCOL                1
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TUM  SZ EP        1 8  6.91                                    -0.5 6  409 221 
+ TUM  SZ ES   3    1 8 50.67                                     0.4 1  409 221 
+ CUM  SZ EP     C  1 8 11.79                                            451 202 
+ CUM  SZ I         1 9  7.74       235.1 0.70                           451 202 
+ FLO  SZ EP     D  1 8  0.45                                            356 167 
+ FLO  SZ I         1 8 40.32        28.0 1.10                           356 167 
+ MAL  SZ IP   0 C  1 7 37.20                                     0.810  132 238 
+ MAL  SZ I         1 7 38.18      3507.7 0.30                           132 238 
+ OCA  SZ EP     C  1 8 20.45                                            518  40 
+ OCA  SZ ES     D  1 9 13.27                                            518  40 
+ OCA  SZ I         1 9 16.14       340.6 0.90                           518  40 
+ TOL  SZ IP   0 D  1 7 34.90                                    -0.110  111  94 
+ TOL  SZ I         1 7 56.63      6982.3 0.60                           111  94 
+ BAR  SZ EP     C  1 8  8.11                                            413  58 
+ BAR  SZ ES     D  1 8 50.03                                            413  58 
+ BAR  SZ I         1 8 55.09       178.4 0.30                           413  58 
+ BAR  SZ  AMPG     1 8  8.75      1490.5 0.23                                   
+ BAR  SZ  AMSG     1 8 52.21      2891.0 0.17                                   
+ CHI  SZ IP     C  1 7 55.66                                            289  90 
+ CHI  SZ I         1 7 56.36       953.9 0.50                           289  90 
+ CHI  SZ ES     D  1 8 27.34                                            289  90 
+ CHI  SZ  AMPG     1 7 56.23     10108.0 0.30                                   
+ CHI  SZ  AMSG     1 8 29.29      2044.5 0.90                                   
+ CRU  SZ EP     C  1 8  1.76                                            355 191 
+ CRU  SZ I         1 8 45.86       590.4 0.70                           355 191 
+ HEL  SZ EP     C  1 7 42.65                                            196  26 
+ HEL  SZ ES     D  1 8  6.56                                            196  26 
+ HEL  SZ I         1 8  8.51       894.8 0.80                           196  26 
+ HEL  SZ  AMPG     1 7 43.29      6266.0 0.13                                   
+ HEL  SZ  AMSG     1 8  7.10     11799.0 0.33                                   
+                                                                                

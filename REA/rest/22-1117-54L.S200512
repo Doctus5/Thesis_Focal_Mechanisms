@@ -1,0 +1,45 @@
+ 2005 1222 1117 54.1 L   4.698 -76.164 96.6  RSN 11 1.0 3.9LRSN                1
+ GAP=142        2.19      10.8    11.2 25.6 -0.3179E+02  0.1061E+03 -0.2861E+01E
+ Epicentro: ARGELIA - VALLE                                                    3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20051222111754 L   I
+ 2005-12-22-1117-00S.COL___018                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ROSC BE ES   1   1118 50.35                                     2.3 6  204  85 
+ BAR  SZ EP     C 1118 46.49                                            395  57 
+ BAR  SZ I        1118 47.89       127.9 0.60                           395  57 
+ CUM  SZ EP       1118 55.21                                    -0.4 5  464 204 
+ CUM  SZ I        1119 51.83       129.7 0.50                           464 204 
+ FLO  SZ IP     D 1118 40.97                                            357 170 
+ FLO  SZ ES     D 1119 17.33                                            357 170 
+ FLO  SZ I        1119 20.39       276.6 0.30                           357 170 
+ FLO  SZ  AMSG    1119 17.71      1479.0 0.23                                   
+ FLO  SZ  AMPG    1118 41.39      2919.0 0.20                                   
+ GUA  SZ I        1118 54.22       944.7 0.40                           459 121 
+ GUA  SZ IP     D 1118 53.77                                                    
+ HEL  SZ EP     C 1118 20.97                                            183  22 
+ HEL  SZ ES     D 1118 42.85                                            183  22 
+ HEL  SZ I        1118 44.45       969.7 0.70                           183  22 
+ HEL  SZ  AMPG    1118 21.86      1916.5 0.63                                   
+ HEL  SZ  AMSG    1118 43.36      2596.0 0.27                                   
+ MAL  SZ IP     C 1118 18.93                                     1.1 9  150 240 
+ MAL  SZ I        1118 46.18      1142.0 0.90                           150 240 
+ POP  SZ EP   1   1118 30.53                                     0.7 6  252 189 
+ PRA  SZ IP     D 1118 20.94                                    -0.1 9  179 128 
+ PRA  SZ I        1118 21.49       631.8 0.50                           179 128 
+ PRA  SZ ES     C 1118 42.19                                            179 128 
+ PRA  SZ  AMSG    1118 42.97      7997.5 0.17                                   
+ PRA  SZ  AMPG    1118 21.55     10724.5 0.23                                   
+ ROSC BZ IP     D 1118 25.42                                     1.0 9  204  85 
+ ROSC BZ I        1118 52.17       385.1 0.60                           204  85 
+ ROSC BZ ES     D 1118 51.30                                                    
+ ROSC BZ  AMPG    1118 26.36      6481.5 0.35                                   
+ ROSC BZ  AMSG    1118 51.71      9552.0 0.60                                   
+ ROSC BT ES     D 1118 50.15                                                    
+ ROSC BT  AMSG    1118 51.53     14847.6 0.70                                   
+ RUS  SZ EP     C 1118 43.87                                            368  68 
+ TOL  SZ IP     D 1118 12.07                                    -0.310   92  97 
+ TOL  SZ I        1118 12.47      4376.1 0.30                            92  97 
+ TOL  SZ ES     C 1118 26.53                                             92  97 
+ TOL  SZ  AMPG    1118 12.39     90924.0 0.27                                   
+ TOL  SZ  AMSG    1118 26.90     34856.0 0.20                                   
+                                                                                

@@ -1,0 +1,54 @@
+ 1998  214 1008  0.3 L   4.757 -76.266 90.0  RSN 14 0.9 3.4LRSN                1
+ GAP= 88        1.73       8.4     7.9 30.4 -0.1140E+02  0.7356E+01  0.3521E+01E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:19980214100800 L   I
+ 1998-02-14-1006-57S.COL___016                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ BET  SZ EP     C 10 8 34.72                                            247 158 
+ BET  SZ I        10 9  4.36       118.0 1.40                           247 158 
+ CRU  SZ EP     C 10 8 49.08                                            368 192 
+ CRU  SZ I        10 9 47.40       111.8 0.50                           368 192 
+ CUM  SZ EP     D 10 9  1.72                                            465 202 
+ CUM  SZ I        1010 10.48        37.6 0.90                           465 202 
+ FLO  SZ EP     C 10 8 47.45                                            365 169 
+ FLO  SZ I        10 9 59.63        96.9 1.20                           365 169 
+ GUA  SZ EP     D 10 9  1.32                                            472 121 
+ GUA  SZ I        10 9  1.81       156.3 0.20                           472 121 
+ GUA  SZ ES     D 10 9 47.89                                            472 121 
+ MAL  SZ EP     C 10 8 24.20                                            144 235 
+ MAL  SZ I        10 8 50.08       512.9 0.30                           144 235 
+ MUN  SZ EP     C 10 8 37.11                                            264 197 
+ MUN  SZ ES     D 10 9 11.64                                            264 197 
+ MUN  SZ I        10 9 14.06       285.1 0.70                           264 197 
+ BAR  SZ EP     C 10 8 53.92                                            401  59 
+ BAR  SZ ES     C 10 9 35.57                                            401  59 
+ BAR  SZ I        10 9 39.41       107.5 0.60                           401  59 
+ BAR  SZ  AMPG    10 8 55.14       986.0 0.30                                   
+ BAR  SZ  AMSG    10 9 37.72       714.5 0.33                                   
+ CHI  SZ IP     D 10 8 41.24                                     1.7 7  282  93 
+ CHI  SZ I        10 8 41.93        87.6 0.60                           282  93 
+ CHI  SZ ES     D 10 9 10.14                                            282  93 
+ CHI  SZ  AMPG    10 8 41.65       725.5 0.80                                   
+ CHI  SZ  AMSG    10 9 11.87       260.0 0.47                                   
+ OCA  SZ EP     C 10 9  5.87                                            504  40 
+ OCA  SZ ES     C 10 9 57.43                                            504  40 
+ OCA  SZ I        1010  0.08        92.1 0.50                           504  40 
+ OCA  SZ  AMPG    10 9  6.71       722.0 0.50                                   
+ OCA  SZ  AMSG    10 9 59.92       888.0 0.53                                   
+ PRA  SZ ES     C 10 8 49.76                                            192 128 
+ PRA  SZ IP     D 10 8 28.42                                                    
+ PRA  SZ  AMPG    10 8 28.97      9624.5 0.23                                   
+ PRA  SZ  AMSG    10 8 50.69      3023.5 0.27                                   
+ SOL  SZ EP     D 10 8 29.81                                            222 324 
+ SOL  SZ ES     D 10 8 55.77                                            222 324 
+ SOL  SZ I        10 9  2.20       125.4 1.20                           222 324 
+ RUS  SZ EP     D 10 8 51.86                                            377  70 
+ RUS  SZ ES     D 10 9 30.82                                            377  70 
+ RUS  SZ I        10 9 39.37        44.7 0.70                           377  70 
+ RUS  SZ  AMPG    10 8 52.77       202.0 0.27                                   
+ RUS  SZ  AMSG    10 9 32.22       132.0 0.93                                   
+ TOL  SZ I        10 8 20.12      1058.3 0.20                           104 100 
+ TOL  SZ ES     D 10 8 33.05                                            104 100 
+ TOL  SZ IP     D 10 8 18.84                                                    
+ TOL  SZ  AMPG    10 8 19.31     20373.5 0.23                                   
+ TOL  SZ  AMSG    10 8 33.86     16686.0 0.17                                   
+                                                                                

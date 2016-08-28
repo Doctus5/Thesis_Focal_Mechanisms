@@ -1,0 +1,40 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-08 09:57:17
+The operator was: rest
+The s-file content at creation:
+ 1999 1027 0316 42.2 L   4.833 -76.191121.9  RSN 11 0.9 3.3LRSN                1
+ GAP=118        1.88       7.3     7.5 16.1 -0.5283E+01  0.2987E+02 -0.3134E+00E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:19991027031642 L   I
+ 1999-10-27-0315-58S.COL___011                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TOL  SZ IP   0 D  317  4.04                                     0.810   98 106 
+ TOL  SZ ES   0    317 19.83                                     0.110   98 106 
+ TOL  SZ I         317 22.21       999.9  0.8                            98 106 
+ SOL  SZ IP   0 C  317 15.51                                     0.5 8  220 321 
+ SOL  SZ ES   1    317 39.53                                    -1.0 6  220 321 
+ SOL  SZ I         317 43.21       131.7  0.4                           220 321 
+ BET  SZ IP   0 C  317 18.83                                     0.2 8  252 161 
+ BET  SZ ES   1    317 46.07                                    -1.0 6  252 161 
+ BET  SZ I         317 49.05       212.3  1.0                           252 161 
+ CHI  SZ IP   0 C  317 23.22                                     1.6 8  274  95 
+ CHI  SZ I         317 24.05       183.3  0.6                           274  95 
+ CHI  SZ ES   1    317 52.23                                    -0.1 6  274  95 
+ MUN  SZ IP   0 C  317 21.62                                    -0.1 8  275 198 
+ MUN  SZ ES   1    317 51.29                                    -1.2 6  275 198 
+ MUN  SZ I         317 59.42        72.2  0.6                           275 198 
+ RUS  SZ IP   0 D  317 32.84                                     0.4 6  366  71 
+ RUS  SZ ES   0    318 10.58                                    -1.0 6  366  71 
+ FLO  SZ IP   0 C  317 31.97                                    -0.7 6  372 170 
+ FLO  SZ I         318 42.56        35.1  1.0                           372 170 
+ CRU  SZ IP   0 C  317 34.09                                     0.3 6  378 193 
+ CRU  SZ I         318 21.18        48.7  0.5                           378 193 
+ BAR  SZ EP   1    317 35.14                                     0.2 4  389  59 
+ BAR  SZ ES   0    318 14.16                                    -1.9 6  389  59 
+ BAR  SZ I         318 15.67        67.4  0.3                           389  59 
+ GUA  SZ IP   0 C  317 43.44                                    -0.9 5  470 122 
+ GUA  SZ I         317 44.00        94.6  0.2                           470 122 
+ CUM  SZ EP   1    317 46.28                                     0.7 3  476 203 
+ CUM  SZ I         318 49.78        15.4  0.5                           476 203 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

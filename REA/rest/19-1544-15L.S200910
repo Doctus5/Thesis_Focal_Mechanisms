@@ -1,0 +1,51 @@
+ 2009 1019 1544 15.9 L   4.616 -76.172117.3  RSN 11 0.4 3.4LRSN                1
+ GAP=116        0.85       3.2     4.5  8.4 -0.2679E+01  0.1959E+02  0.3636E+01E
+ Epicentro: VERSALLES - VALLE                                                  3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20091019154415 L   I
+ 2009-10-19-1542-20S.COL___084                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ANIL BN ES   1   1544 51.58                             141     0.6 7   86  99 
+ RREF BN ES       1544 52.71                             138    -0.510   97  71 
+ PRA  HN ES   1   1545  4.89                             119    -0.1 7  174 125 
+ VR2N SN ES   2   1545  7.02                             118    -0.9 4  182 175 
+ HEL  BZ EP       1544 45.45                             117     0.0 9  188  22 
+ HEL  BE ES   1   1545  8.20                             117    -0.2 7  188  22 
+ DBB  SZ EP   2   1544 53.58                             108    -0.2 4  266 359 
+ ANIL BZ IP     C 1544 35.38                             141             86  99 
+ ANIL BZ I        1544 53.19      1438.7 0.42                            86  99 
+ ANIL BZ ES     C 1544 51.22                                                    
+ ANIL BZ  AMSG    1544 51.42      7681.5 0.14                                   
+ ANIL BZ  AMPG    1544 35.64      4770.5 0.20                                   
+ ANIL BT ES     D 1544 51.55                                                    
+ ANIL BT  AMSG    1544 52.65     28530.5 0.32                                   
+ BET  SZ EP     C 1544 49.60                             112            229 159 
+ BET  SZ ES   2   1545 15.53                             112    -0.2 4  229 159 
+ BET  SZ  AMPG    1544 50.06      3841.0 0.23                                   
+ BET  SZ  AMSG    1545 16.96      3060.0 0.40                                   
+ CHI  HZ EP     C 1544 56.55                                                    
+ GUY  HZ EP       1544 38.08                             133     0.110  112  53 
+ GUY  HZ ES     C 1544 56.32                                                    
+ GUY  HT ES     C 1544 56.18                                                    
+ MAL  SZ EP     D 1544 40.32                             125            145 243 
+ MAL  SZ I        1544 41.77       223.4 0.37                           145 243 
+ MAL  SZ ES     C 1545  0.15                             125            145 243 
+ PCON BN ES   2   1545 21.38                             110    -0.7 4  254 186 
+ PCON BZ I        1545 25.67        70.2 0.80                           254 186 
+ PCON BZ EP     D 1544 53.05                                                    
+ PRA  HZ IP     C 1544 44.11                             119            174 125 
+ PRA  HZ I        1544 44.54       354.4 0.19                           174 125 
+ PRA  HT ES     C 1545  6.61                                                    
+ RREF BZ I        1544 54.85       585.1 0.26                            97  71 
+ RREF BZ IP     C 1544 35.52                                                    
+ RREF BZ ES     C 1544 52.49                                                    
+ RREF BZ  AMPG    1544 35.84      5649.0 0.16                                   
+ RREF BZ  AMSG    1544 53.06      9403.5 0.26                                   
+ RREF BT ES     C 1544 52.37                                                    
+ RREF BT  AMSG    1544 52.81     10419.4 0.38                                   
+ VR2E SE ES     C 1545  6.99                                                    
+ VR2E SE EP       1544 44.97                                                    
+ VR2E SE  AMSG    1545  7.59       933.0 0.22                                   
+ VR2Z SZ EP       1544 44.95                             118    -0.2 9  182 175 
+ VR2Z SZ ES     C 1545  7.01                                                    
+ VR2Z SZ  AMSG    1545  7.28       711.0 0.26                                   
+                                                                                

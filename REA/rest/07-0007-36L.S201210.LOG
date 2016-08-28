@@ -1,0 +1,82 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-12 15:20:15
+The operator was: rest
+The s-file content at creation:
+ 2012 10 7 0007 36.0 L   4.784 -76.330106.0  RSN 25 0.5 3.8LRSN 3.6WRSN        1
+ SPEC AVERAGE  MO 14.5 ST  6.8 OM  3.7 f0 2.28 R0.8009 AL 2.49 WI 12.4 MW  3.6 3
+ SPEC SD       MO  0.2 ST  6.1 OM  1.1 f00.996 R0.4099 AL      WI      MW  0.2 3
+ GAP= 97        0.95       2.6     3.3  6.0 -0.2355E+01  0.4814E+01 -0.3720E-01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ Evento sentido                                                                2
+ Reportado como sentido en :                                                   3
+ MANIZALES (CALDAS)                                                            3
+ SPEC PCONHH Z MO 14.6 ST  6.8 OM  2.7 f0 2.38 R0.6176 AL 3.19 WI 11.0 MW  3.7 3
+ SPEC PCONHH Z T 0 845 K 0.000 GD  291 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC POP2HH N MO 14.1 ST 12.7 OM  2.3 f0 4.08 R0.3603 AL 3.09 WI  9.7 MW  3.4 3
+ SPEC POP2HH N T 0 839 K 0.000 GD  272 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC FLO2HH N MO 14.8 ST0.597 OM  2.8 f00.900 R1.6333 AL 1.64 WI 23.4 MW  3.8 3
+ SPEC FLO2HH N T 0 853 K 0.000 GD  377 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC CAP2HH N MO 14.8 ST 16.8 OM  2.7 f0 2.78 R0.5288 AL 3.12 WI 16.2 MW  3.8 3
+ SPEC CAP2HH N T 0 921 K 0.000 GD  454 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC HEL HH N MO 14.4 ST  2.6 OM  2.7 f0 1.94 R0.7577 AL 2.16 WI  7.1 MW  3.6 3
+ SPEC HEL HH N T 0 825 K 0.000 GD  208 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC PRA HH N MO 14.2 ST  1.0 OM  2.5 f0 1.62 R0.9074 AL 1.77 WI  7.0 MW  3.4 3
+ SPEC PRA HH N T 0 828 K 0.000 GD  225 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20121007000736 L   I
+ 2012-10-07-0006-35M.COL___205                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PAL  HZ EP   1    0 7 50.41                             172   -0.05 8 14.4  21 
+ PAL  HE ES   2    0 8  2.74                             172    1.03 5 14.4  21 
+ YOT  HZ EP   1    0 7 54.85                             137    0.26 8 88.5 181 
+ ANIL HZ IP     D  0 7 55.40                             131   -1.1310  108 107 
+ RREF HZ IP     D  0 7 56.94                             131   -0.2210  110  83 
+ RREF HE ES        0 8 13.49                             131   -0.1410  110  83 
+ RREF HZ I         0 8 15.05      1823.9 0.39                           110  83 
+ GUY  SZ EP        0 7 57.40                             129   -0.0310  115  65 
+ GUY  SE ES        0 8 14.39                             129    0.2710  115  65 
+ HORQ SZ EP   1    0 8  0.26                             121   -0.18 7  148 193 
+ HORQ SE ES        0 8 19.38                             121   -0.10 9  148 193 
+ HORQ SZ I         0 8 25.03      1037.0 0.42                           148 193 
+ HEL  HZ IP     D  0 8  3.25                             115   -0.67 9  179  30 
+ HEL  HE ES   2    0 8 25.25                             115   -0.42 4  179  30 
+ HEL  HN I         0 8 29.47       418.7 0.65                           179  30 
+ NOR  SZ EP   1    0 8  3.95                             115   -0.05 7  183  62 
+ NOR  SN ES   2    0 8 25.58                             115   -0.23 4  183  62 
+ NOR  SN I         0 8 27.25      1942.1 0.58                           183  62 
+ SOL  SZ EP   1    0 8  6.11                             112    0.42 7  199 323 
+ PRA  HZ EP   1    0 8  5.46                             112   -0.28 7  199 126 
+ PRA  HN ES   2    0 8 28.11                             112   -0.81 4  199 126 
+ SOL  SE ES   2    0 8 29.34                             112    0.53 4  199 323 
+ SOL  SZ I         0 8 34.13       655.0 0.35                           199 323 
+ MARA HZ EP   1    0 8  8.56                             110    0.30 6  219 169 
+ MARA HN ES   2    0 8 32.90                             110   -0.50 4  219 169 
+ ROSC BZ EP        0 8  9.84                             110    0.95 8  223  88 
+ ROSC BN ES   2    0 8 34.83                             110    0.31 4  223  88 
+ DBB  SZ EP   1    0 8 11.67                             107    0.35 6  247   3 
+ POP2 HZ EP   1    0 8 11.89                             107   -0.05 6  251 189 
+ POP2 HN ES   2    0 8 39.51                             107   -0.44 4  251 189 
+ BET  SZ EP   1    0 8 11.74                             107   -0.15 6  253 157 
+ BET  SZ ES   2    0 8 39.56                             107   -0.29 4  253 157 
+ PCON HZ EP   1    0 8 15.88                             105    1.10 6  272 182 
+ PCON HN ES   2    0 8 45.39                             105    0.40 4  272 182 
+ PCON HZ I         0 8 50.08       244.9 0.35                           272 182 
+ GOR  SZ EP   1    0 8 14.82                             104   -0.63 6  284 226 
+ GOR  SN I         0 8 51.00       292.2 0.14                           284 226 
+ CHI  HZ EP        0 8 17.42                             104    0.83 7  289  93 
+ CHI  HN ES        0 8 48.98                             104    0.77 7  289  93 
+ CHI  HN I         0 8 50.93       240.3 0.47                           289  93 
+ SOTA HZ EP   1    0 8 17.88                             104    0.50 5  295 186 
+ SOTA HZ I         0 8 52.88       205.5 0.39                           295 186 
+ PTA  HZ EP   1    0 8 18.48                             102    0.09 5  308 328 
+ ZAR  HZ EP   1    0 8 21.91                             101   -0.39 5  341  28 
+ ZAR  HN ES   2    0 8 57.54                             101   -0.84 3  341  28 
+ ZAR  HN I         0 8 58.65       303.0 0.38                           341  28 
+ CRU  SZ EP   1    0 8 25.87                             100    0.57 5  362 191 
+ CRU  SZ I         0 9  9.60       208.4 0.24                           362 191 
+ FLO2 HZ EP   1    0 8 24.63                              99   -0.21 5  362 168 
+ GIR2 SZ EP   1    0 8 32.42                              96   -0.79 4  430  54 
+ CAP2 HZ EP   1    0 8 34.31                              96   -0.18 4  442 345 
+ CAP2 HN ES   2    0 9 20.71                              96    0.62 3  442 345 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-10 19:00:47
+The operator was: rest
+The s-file content at creation:
+ 2009 11 2 2216 52.7 L   4.699 -76.116 83.0  RSN 19 0.5 3.4LRSN                1
+ GAP= 79        1.17       3.3     5.1 10.4 -0.1310E+01  0.2719E+02 -0.4158E+00E
+ Epicentro: ARGELIA - VALLE                                                    3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20091102221652 L   I
+ 2009-11-02-2214-57S.COL___093                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ANIL BZ IP       2217  8.52                             131    -0.510   82 106 
+ ANIL BZ I        2217  9.14      1907.7 0.26                            82 106 
+ ANIL BN ES   1   2217 21.45                             131    -0.2 7   82 106 
+ RREF BZ IP       2217 10.01                             130     0.010   88  75 
+ RREF BE ES   1   2217 23.76                             130     0.3 7   88  75 
+ RREF BZ I        2217 24.85      1221.5 0.53                            88  75 
+ GUY  HZ IP       2217 11.05                             125     0.010  101  55 
+ GUY  HE ES   2   2217 25.11                             125    -0.3 5  101  55 
+ MAL  SZ IP       2217 17.23                             113     1.0 9  155 241 
+ MAL  SZ I        2217 18.00       251.4 0.15                           155 241 
+ PRA  HZ IP       2217 18.58                             110     0.0 9  175 129 
+ PRA  HZ I        2217 19.24       488.5 0.36                           175 129 
+ PRA  HE ES   1   2217 39.31                             110     0.6 7  175 129 
+ HEL  BZ EP       2217 18.98                             110    -0.3 9  177  21 
+ HEL  BN ES   1   2217 40.05                             110     0.0 7  177  21 
+ HEL  BZ I        2217 43.54       179.7 0.65                           177  21 
+ MARA BZ EP       2217 22.61                             107     0.0 8  206 175 
+ MARA BE ES   1   2217 45.31                             107    -0.5 6  206 175 
+ SOL  SZ EP       2217 23.73                             105    -0.3 8  222 320 
+ BET  SZ EP   1   2217 25.73                             104     0.0 6  235 161 
+ BET  SZ I        2217 54.68       191.9 0.20                           235 161 
+ DBB  SZ EP       2217 28.40                             103     0.0 8  257 358 
+ PCON BZ EP       2217 29.95                             103     0.1 8  264 187 
+ PCON BZ I        2218  2.51       166.7 0.58                           264 187 
+ CHI  HZ IP       2217 31.07                             103     1.3 8  265  92 
+ CHI  HZ I        2217 31.74        94.0 0.65                           265  92 
+ CHI  HN ES   2   2217 58.59                             103     0.0 4  265  92 
+ SOTA BZ EP   3   2217 32.41                             101    -0.3 2  289 191 
+ FLO2 BZ IP       2217 37.90                              99    -1.5 6  348 171 
+ BRR  HZ IP       2217 42.35                              98    -0.5 6  377  45 
+ BRR  HZ I        2217 43.33        65.8 0.45                           377  45 
+ BRR  HN ES   2   2218 21.72                              98    -0.2 3  377  45 
+ BAR2 SZ EP       2217 44.67                              98     0.4 6  386  57 
+ GIR  SZ EP       2217 47.98                              97     0.0 5  417  51 
+ MON  HZ EP       2217 52.27                              97     0.0 5  453   6 
+ GUA  SZ IP       2217 52.21                              97    -0.2 5  455 121 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

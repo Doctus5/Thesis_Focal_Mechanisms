@@ -1,0 +1,50 @@
+ 2004  822 2335 52.8 L   4.650 -76.254 82.0  RSN 15 0.9 4.2LRSN                1
+ GAP=103        1.49       5.7     6.8 22.8  0.1179E+02  0.4525E+02  0.1896E+02E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20040822233552 L   I
+ 2004-08-22-2333-38S.COL___017                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ROSC BE ES   2   2336 47.93                                     0.1 4  215  84 
+ CHI  SZ IP     C 2336 32.77                                     1.2 7  280  90 
+ CUM  SZ I        2338  1.17       199.7 1.50                           455 203 
+ CUM  SZ EP     D 2336 49.26       199.7 1.50                           455 203 
+ FLO  SZ EP     C 2336 40.28                                            354 169 
+ FLO  SZ I        2337 19.98       457.5 0.80                           354 169 
+ KEN  SZ EP     D 2337 30.62                                            755  19 
+ POP  SZ EP   1   2336 27.43                                     0.2 6  246 187 
+ POP  SZ ES   3   2336 55.88                                     1.7 2  246 187 
+ POP  SZ I        2337  4.43       999.5 0.50                           246 187 
+ ROSC BT ES     D 2336 47.21                                                    
+ ROSC BT  AMSG    2336 51.85     45772.3 0.70                                   
+ RUS  SZ EP     D 2336 43.42                                            380  68 
+ RUS  SZ I        2337 57.69       240.4 1.10                           380  68 
+ TUM  SZ EP   2   2336 48.06                                     0.5 3  415 222 
+ TUM  SZ I        2337 46.06       502.8 0.80                           415 222 
+ GUA  SZ ES     D 2337 39.19                                            465 120 
+ GUA  SZ IP     C 2336 53.66                                                    
+ GUA  SZ  AMPG    2336 54.02     15482.5 0.27                                   
+ GUA  SZ  AMSG    2337 40.35      3229.0 0.33                                   
+ HEL  SZ EP     C 2336 20.75                                            192  24 
+ HEL  SZ ES     C 2336 43.44                                            192  24 
+ HEL  SZ  AMSG    2336 44.33      9217.5 0.73                           192  24 
+ HEL  SZ  AMPG    2336 21.15      1741.0 0.30                                   
+ OCA  SZ ES     D 2337 51.15                                            513  39 
+ OCA  SZ IP     C 2336 59.80                                                    
+ OCA  SZ  AMSG    2337 53.64      5142.5 0.87                                   
+ OCA  SZ  AMPG    2337  0.50      7751.5 0.60                                   
+ PRA  SZ IP     D 2336 19.96                                     0.4 9  184 125 
+ PRA  SZ ES     D 2336 40.89                                            184 125 
+ PRA  SZ  AMSG    2336 41.30     32477.0 0.60                           184 125 
+ PRA  SZ  AMPG    2336 20.54     17646.5 0.20                                   
+ ROSC BZ IP     C 2336 24.32                                            215  84 
+ SOL  SZ EP     C 2336 25.01                                            232 325 
+ SOL  SZ I        2336 56.33       373.2 0.50                           232 325 
+ BAR  SZ EP     C 2336 46.61                                            406  57 
+ BAR  SZ ES     D 2337 28.09                                            406  57 
+ BAR  SZ  AMSG    2337 28.54      3298.0 0.40                           406  57 
+ BAR  SZ  AMPG    2336 47.08      3255.5 0.30                                   
+ TOL  SZ IP     D 2336 11.02                                     0.210  102  94 
+ TOL  SZ ES     C 2336 24.43                                            102  94 
+ TOL  SZ I        2336 30.35     14643.1 0.70                           102  94 
+ TOL  SZ  AMPG    2336 11.29      14.1e4 0.33                                   
+ TOL  SZ  AMSG    2336 24.95     39808.0 0.27                                   
+                                                                                

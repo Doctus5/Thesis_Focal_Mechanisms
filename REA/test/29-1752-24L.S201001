@@ -1,0 +1,80 @@
+ 2010  129 1752 24.1 L   4.775 -76.120116.0  RSN 11 0.5 4.7LRSN                1
+     141.9      88.1     103.5                               3    RSN PINV     F
+     227.3       6.6     -52.5 36.0  6.1      0.06 0.06 0.00      RSN HASH     F
+       0.0      39.0    -142.0  0.0  3.0  1.0  0.2  0.2           RSN FPFIT    F
+  255.0000   90.0000   85.0000                               3    RSN FOCMEC   F
+ GAP=132        1.19       5.2     6.9 12.3  0.1177E+02  0.4391E+02  0.2253E+02E
+ Epicentro: ARGELIA - VALLE                                                    3
+ Evento Sentido                                                                2
+ REportado como Sentido:                                                       3
+ BUENAVENTURA, CALI, YUMBO, LA UNION, BUGA, BOLIVAR, CARTAGO, TULUA, ROLDANILLO3
+ (VALLE DEL CAUCA), MARSELLESA, PEREIRA, DOS QUEBRADAS (RISARALDA), ENVIGADO   3
+ (ANTIOQUIA), MANIZALES, VILLAMARIA (CALDAS), ARMENIA,PIJAO, CALARCA (QUINDIO) 3
+ TOLIMA (IBAGUE), CAUCA                                                        3
+ ACTION:UP  10-08-24 09:46 OP:vdl  STATUS:               ID:20100129175224 L   I
+ 2010-01-29-1750-34S.COL___093                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO SNR AR TRES W  DIS CAZ7
+ ANIL BE ES     D 1752 59.90                                                    
+ BAR2 SZ EP     D 1753 15.02                                                    
+ BAR2 SZ ES     C 1753 55.00                                                    
+ BCIP BE ES     D 1754 50.66                                                    
+ BCIP BN ES     D 1754 50.65                                                    
+ BCIP BZ EP     C 1753 45.49                                                    
+ BET  SZ EP     C 1752 58.85                                                    
+ BET  SZ ES     C 1753 26.04                                                    
+ CHI  HZ IP     C 1753  2.60                                                    
+ CHI  HZ ES     D 1753 32.03                                                    
+ CHI  HE ES     D 1753 33.60                                                    
+ CHI  HN ES     D 1753 33.60                                                    
+ DBB  SZ EP     C 1753  0.12                                                    
+ CRU  SZ IP     D 1753 14.40                                                    
+ CRU  SZ ES     C 1753 54.75                                                    
+ CIBA1EN ES     D 1752 43.13                                                    
+ GCAL SN ES     D 1754  2.30                                                    
+ GCAL SE ES     C 1754  2.30                                                    
+ GCAL SZ EP     D 1753 19.10                                                    
+ GCAL SZ ES     C 1754  2.30                                                    
+ GUY  HE ES     C 1753  1.52                                                    
+ GUY  HN ES     D 1753  1.54                             137             97  59 
+ ANIL BZ I        1752 59.69     19756.0 0.43                            86 111 
+ ANIL BZ IP     D 1752 43.20                                                    
+ GUY  HZ IP     C 1752 45.07                                                    
+ HEL  HZ IP     D 1752 51.45                             120            170  23 
+ HEL  HZ I        1752 52.51      2986.2 0.61                           170  23 
+ HEL  HZ ES     D 1753 13.15                                                    
+ HEL  HE ES     C 1753 13.15                             120            170  23 
+ HEL  HN ES     C 1753 13.59                                                    
+ MAL  SZ IP     C 1752 51.54                                                    
+ MAP  HZ EP     C 1753 42.53                                                    
+ MAP  HN ES     C 1754 43.35                                                    
+ MAP  HE ES     D 1754 43.37                                                    
+ MARA BZ EP     D 1752 56.12                             114            214 175 
+ MARA BN ES     C 1753 20.69                                                    
+ OCA  SZ EP     D 1753 28.38                                                    
+ PCON BZ IP     D 1753  3.26                             108            272 186 
+ PCON BZ I        1753 37.92      7969.6 0.75                           272 186 
+ PCON BE ES     C 1753 33.44                                                    
+ PCON BN ES     C 1753 33.43                                                    
+ POP2 HZ IP     D 1752 59.62                                                    
+ POP2 HE ES     D 1753 27.83                                                    
+ PRA  HZ IP     C 1752 51.72                             118            180 131 
+ PRA  HZ I        1753 15.78      8284.9 0.48                           180 131 
+ PRA  HE ES     D 1753 13.50                                                    
+ PRA  HN ES     D 1753 13.50                                                    
+ ROSC BZ IP     C 1752 55.71                             116            200  88 
+ ROSC BZ I        1752 57.16      1929.0 0.60                           200  88 
+ RREF BZ IP     D 1752 44.39                             141             87  81 
+ RREF BZ I        1752 47.08      7022.4 0.82                            87  81 
+ RREF BE ES     C 1753  0.82                                                    
+ RUS  BZ EP     C 1753 12.47                                                    
+ RUS  BE ES     D 1753 48.46                                                    
+ RUS  BN ES     C 1753 48.46                                                    
+ SOL  SZ EP     C 1752 56.54                             113            215 318 
+ SOL  SZ ES   1   1753 20.35                             113    -0.5 6  215 318 
+ ROSC BN IS     D 1753 21.58                                                    
+ ROSC BE IS     C 1753 21.29                                                    
+ SOTA BZ EP     D 1753  5.47                                                    
+ SOTA BE ES     D 1753 39.58                                                    
+ TOL  SZ EP     D 1752 44.33                             139             91 103 
+ TOL  SZ ES     C 1753  0.18                             139             91 103 
+                                                                                

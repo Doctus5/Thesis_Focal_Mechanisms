@@ -1,0 +1,60 @@
+ 2013  411 1552 12.9 L   4.912 -76.259 95.3  RSN 19 0.5 2.9LRSN 3.4WRSN        1
+ SPEC AVERAGE  MO 14.1 ST  4.0 OM  3.0 f0 2.82 R0.5613 AL 2.07 WI 26.0 MW  3.4 3
+ SPEC SD       MO  0.2 ST  1.8 OM  0.6 f00.357 R0.0754 AL      WI      MW  0.1 3
+ GAP= 65        1.04       2.8     3.7  5.5 -0.2713E+01 -0.3174E+01  0.6810E+00E
+ Epicentro: SAN JOSE DEL PALMAR - CHOCO                                        3
+ SPEC PTB HH E MO 13.9 ST  3.7 OM  2.1 f0 3.33 R0.4667 AL 2.23 WI 15.6 MW  3.2 3
+ SPEC PTB HH E T155317 K 0.000 GD  273 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC POP2HH N MO 14.4 ST  7.0 OM  2.6 f0 2.81 R0.5530 AL 2.09 WI 31.3 MW  3.6 3
+ SPEC POP2HH N T155424 K 0.000 GD  271 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC PRA HH E MO 14.0 ST  1.4 OM  2.3 f0 2.24 R0.6937 AL 1.60 WI 29.8 MW  3.3 3
+ SPEC PRA HH E T1553 4 K 0.000 GD  215 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC NOR HH N MO 14.2 ST  4.6 OM  2.5 f0 2.99 R0.5197 AL 2.13 WI 18.9 MW  3.4 3
+ SPEC NOR HH N T155258 K 0.000 GD  188 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC HEL HH N MO 14.2 ST  3.4 OM  2.5 f0 2.71 R0.5734 AL 2.32 WI 34.2 MW  3.4 3
+ SPEC HEL HH N T155256 K 0.000 GD  183 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20130411155212 L   I
+ 2013-04-11-1550-00M.COL___245                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PAL  HZ EP       1552 26.09                             178    0.2310 2.73 254 
+ PAL  HN ES       1552 35.84                             178   -0.1510 2.73 254 
+ YOT  HZ EP       1552 30.92                             129   -0.9110  103 185 
+ YOT  HN ES   1   1552 46.28                             129   -0.35 7  103 185 
+ YOT  HZ I        1552 51.37       208.8 0.24             96            103 185 
+ MAL  SZ EP       1552 37.55                             117    0.47 9  155 230 
+ MAL  SE ES   1   1552 57.51                             117    1.54 7  155 230 
+ HEL  HZ EP       1552 38.24                             116   -0.16 9  163  30 
+ HEL  HN ES   1   1552 58.31                             116   -0.00 7  163  30 
+ HEL  HZ I        1553  1.69       116.1 0.28             93            163  30 
+ NOR  HZ EP       1552 39.40                             115    0.60 9  170  65 
+ NOR  HN ES   1   1552 59.72                             115    0.70 7  170  65 
+ NOR  HZ I        1553  2.78       144.2 0.34             93            170  65 
+ SOL  SZ EP   1   1552 40.70                             112   -0.64 7  193 319 
+ SOL  SE ES   1   1553  3.10                             112   -0.45 7  193 319 
+ PRA  HZ EP       1552 42.32                             111   -0.09 9  202 131 
+ PRA  HE ES   1   1553  5.57                             111    0.13 6  202 131 
+ PRA  HZ I        1553  7.72       109.0 0.22             92            202 131 
+ MARA HZ EP   1   1552 46.07                             108   -0.06 6  231 172 
+ DBB  SZ EP   1   1552 46.48                             108    0.41 6  233   1 
+ DBB  SZ I        1553 20.94       131.6 0.46             91            233   1 
+ BET  SZ EP   1   1552 49.15                             106   -0.42 6  263 160 
+ BET  SZ I        1553 21.32        18.4 0.25             91            263 160 
+ POP2 HZ EP   9   1554  1.20                             105   70.99 0  266 190 
+ POP2 HN ES   2   1554 30.15                                   -0.17 4  266 190 
+ PTB  HZ EP       1552 50.29                             105    0.05 8  269  48 
+ PTB  HE ES   1   1553 18.57                             105   -0.81 6  269  48 
+ PTB  HZ I        1553 20.83        35.3 0.28             91            269  48 
+ PCON HZ EP       1552 53.30                             104    0.31 7  286 183 
+ PCON HE ES   1   1553 23.63                             104   -0.66 6  286 183 
+ VIL  SZ EP   4   1552 56.01                             104    2.12 0  298 107 
+ PTA  HZ EP   1   1552 53.40                             103   -0.64 5  301 325 
+ SOTA HZ EP       1552 55.93                             103    0.22 7  309 187 
+ SOTA HZ I        1553 38.97        74.3 0.54             91            309 187 
+ SJA  SZ EP   4   1552 58.01                             103    2.26 0  314 125 
+ RUS  HZ EP   1   1553  3.59                             101    0.79 5  368  73 
+ FLO2 HZ EP       1553  2.61                             100   -0.34 6  374 170 
+ FLO2 HZ I        1553 43.21        34.3 0.28             91            374 170 
+ CRU  SZ EP   1   1553  3.62                             100   -0.16 5  378 192 
+ CRU  SZ I        1553 45.76        41.0 0.42             91            378 192 
+ BAR2 SZ EP   1   1553  4.97                             100    0.08 4  388  61 
+                                                                                

@@ -1,0 +1,60 @@
+ 2009  316 0958 23.6 L   4.743 -76.298108.0  RSN 14 0.5 3.3LRSN                1
+ GAP= 88        1.07       3.6     4.6 11.5 -0.1593E+01  0.2436E+02  0.6902E+00E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20090316095823 L   I
+ 2009-03-16-0953-45S.COL___061                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RREF BE ES   1    959  0.91                             132    -0.2 7  107  81 
+ HEL  BE ES   1    959 13.50                             116    -0.4 7  181  28 
+ PRA  HE ES   1    959 15.98                             114     0.4 7  194 126 
+ PCON BE ES   1    959 31.26                             106    -0.5 6  267 182 
+ CHI  HE ES   2    959 36.11                             105     1.0 4  285  92 
+ BAR  SZ EP   2    959 17.68                              98     0.2 3  401  59 
+ CHI  HZ EP     D  959  5.17                             105            285  92 
+ CHI  HZ I         959 49.80        78.1 0.77                           285  92 
+ CHI  HZ ES     C  959 37.79                                                    
+ CHI  HZ  AMPG     959  5.56       430.5 0.38                                   
+ CHI  HZ  AMSG     959 40.50       886.5 0.36                                   
+ CHI  HT ES     C  959 36.94                                                    
+ CHI  HT  AMSG     959 38.10      2593.2 1.08                                   
+ CRU  SZ EP     C  959 11.90                             100            358 192 
+ CRU  SZ I         959 55.66       127.7 0.36                           358 192 
+ DBB  SZ EP     C  958 59.98                             107            252   2 
+ DBB  SZ ES   2    959 27.67                             107     0.2 4  252   2 
+ GCUF BZ EP   1    959 17.58                              98    -0.8 4  406 197 
+ GCUF BZ I        10 0  2.62        34.8 0.23                           406 197 
+ HEL  BZ EP     C  958 51.43                             116            181  28 
+ HEL  BZ I         959 15.60       151.8 0.50                           181  28 
+ MAL  SZ IP     C  958 48.05                             123     1.010  141 235 
+ MAL  SZ ES   2    959  5.56                             123     0.2 5  141 235 
+ MAL  SZ I         959 15.87       786.2 0.26                           141 235 
+ PCON BZ EP     D  959  1.85                             106            267 182 
+ PCON BZ ES     C  959 31.08                                                    
+ PCON BZ  AMPG     959  2.52      4451.0 0.38                                   
+ PCON BZ  AMSG     959 32.66      6473.0 0.46                                   
+ PCON BT ES     D  959 31.24                                                    
+ PCON BT  AMSG     959 33.24     16047.9 0.84                                   
+ PRA  HZ EP     D  958 52.84                             114            194 126 
+ PRA  HZ  AMPG     958 53.60     26931.0 0.16                                   
+ PRA  HZ ES     C  959 16.33                                                    
+ PRA  HZ  AMSG     959 16.31     20210.5 0.14                                   
+ PRA  HT ES     C  959 16.07                                                    
+ PRA  HT  AMSG     959 18.22      17.0e4 0.34                                   
+ RREF BZ IP     D  958 44.77                             132            107  81 
+ RREF BZ ES     C  959  2.31                                                    
+ RREF BZ  AMSG     959  2.62     25279.0 0.20                                   
+ RREF BZ  AMPG     958 45.31     17552.0 0.24                                   
+ RREF BT ES     C  959  1.98                                                    
+ RREF BT  AMSG     959  2.83     37393.7 0.42                                   
+ SOL  SZ IP     C  958 53.80                             112    -0.2 9  205 323 
+ SOL  SZ I         959 24.42       195.5 0.41                           205 323 
+ SOL  SZ ES     C  959 15.26                                                    
+ TOL  SZ IP     D  958 44.38                             131    -0.210  110  99 
+ TOL  SZ ES     C  959  0.73                             131            110  99 
+ TOL  SZ  AMPG     958 44.60     30820.5 0.40                                   
+ TOL  SZ  AMSG     959  1.76      9068.5 0.44                                   
+ VR2N SN ES   2    959 16.94                             113    -0.8 4  198 172 
+ VR2Z SZ EP     C  958 53.54                             113            198 172 
+ VR2Z SZ ES     C  959 16.92                                                    
+ YOP  SZ EP     D  959 22.54                                                    
+                                                                                

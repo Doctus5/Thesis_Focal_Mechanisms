@@ -1,0 +1,60 @@
+ 2007  5 8 2203 10.0 L   4.689 -76.227100.2  RSN 12 0.7 4.0LRSN                1
+ GAP= 84        1.58       7.0     7.3 21.0 -0.6202E+01  0.2024E+02  0.6578E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ Evenoto Sentido                                                               2
+ Reportado como Sentido: PEREIRA(RISARALDA)-MANIZALES(CALDAS)                  3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20070508220310 L   I
+ 2007-05-08-2202-00S.COL___019                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ROSC BE ES   2   22 4  6.28                                     0.6 4  211  85 
+ 1151 HZ EP     C 22 3 49.21                                            277  91 
+ 1151 HZ  AMPG    22 3 49.87         0.0 0.20                                   
+ 1151 HT ES     C 22 4 20.70                                                    
+ 1151 HT  AMSG    22 4 21.65         0.0 1.46                                   
+ BAR  SZ EP     C 22 4  2.58                                            401  57 
+ BAR  SZ I        22 5 17.70       137.6 1.20                           401  57 
+ BAR  SZ ES     D 22 4 43.31                                                    
+ BAR  SZ  AMPG    22 4  3.03       194.5 0.20                                   
+ BAR  SZ  AMSG    22 4 44.76       966.5 0.40                                   
+ GUA  SZ EP     D 22 4  9.26                                            465 121 
+ GUA  SZ I        22 4  9.67       213.3 0.20                           465 121 
+ GUA  SZ ES     C 22 4 56.93                                                    
+ GUA  SZ  AMSG    22 4 57.05      1768.5 0.40                                   
+ GUA  SZ  AMPG    22 4  9.60      5344.0 0.23                                   
+ HEL  SZ ES     C 22 4  1.17                                            187  24 
+ HEL  SZ I        22 4  4.57      1157.8 0.70                           187  24 
+ HEL  SZ IP     D 22 3 37.73                                                    
+ HEL  SZ  AMSG    22 4  2.25      6254.5 0.60                                   
+ HEL  SZ  AMPG    22 3 38.96      5909.0 0.10                                   
+ KEN  SZ IP     C 22 4 44.92                                            750  19 
+ KEN  SZ ES     D 22 5 58.21                                                    
+ KEN  SZ  AMSG    22 5 59.18       436.0 0.33                                   
+ KEN  SZ  AMPG    22 4 46.59       748.5 0.13                                   
+ MAL  SZ I        22 3 36.99      2036.0 0.20                           144 239 
+ MAL  SZ ES   3   22 3 52.31                                     0.9 2  144 239 
+ MAL  SZ IP     C 22 3 34.15                                                    
+ OCA  SZ EP     C 22 4 15.16                                            507  39 
+ OCA  SZ I        22 5  7.97       378.1 0.70                           507  39 
+ OCA  SZ ES     C 22 5  7.36                                                    
+ OCA  SZ  AMSG    22 5  7.74      3853.0 0.50                                   
+ OCA  SZ  AMPG    22 4 15.82      1109.0 0.20                                   
+ POP  SZ ES     D 22 4 12.12                                            250 188 
+ POP  SZ I        22 4 14.53      1414.0 0.20                           250 188 
+ POP  SZ EP     D 22 3 44.69      1414.0 0.20                           250 188 
+ POP  SZ  AMSG    22 4 13.02     21126.0 0.30                                   
+ POP  SZ  AMPG    22 3 45.59      5368.0 0.47                                   
+ PRA  SZ IP     C 22 3 37.53                                    -0.1 9  184 127 
+ PRA  SZ ES   3   22 3 58.26                                    -1.0 2  184 127 
+ PRA  SZ I        22 4  1.25      1213.2 0.90                           184 127 
+ ROSC BT ES     C 22 4  9.01                                                    
+ ROSC BT  AMSG    22 4  9.46      6303.1 0.70                                   
+ ROSC BZ EP     D 22 3 41.89                                            211  85 
+ ROSC BZ I        22 3 48.72       178.4 0.60                           211  85 
+ ROSC BZ  AMPG    22 3 42.76      2620.5 0.20                                   
+ SOL  SZ EP     D 22 3 40.84                                            215 322 
+ SOL  SZ I        22 3 41.20       567.2 0.30                           215 322 
+ SOL  SZ ES     C 22 4  5.68                                                    
+ TOL  SZ IP     C 22 3 29.57                                     0.310   99  96 
+ TOL  SZ ES     D 22 3 46.13                                             99  96 
+ TOL  SZ I        22 3 51.17      4382.8 0.60                            99  96 
+                                                                                

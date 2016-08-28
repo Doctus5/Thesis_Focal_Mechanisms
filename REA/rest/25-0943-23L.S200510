@@ -1,0 +1,51 @@
+ 2005 1025 0943 23.2 L   4.604 -76.107104.0  RSN 13 0.8 3.5LRSN                1
+ GAP= 78        1.68       7.4     6.2 17.7 -0.7066E+01  0.1445E+02 -0.1264E+02E
+ Epicentro: TORO - VALLE                                                       3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20051025094323 L   I
+ 2005-10-25-0942-00S.COL___017                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ MAL  SZ EP        943 48.19                                     0.7 9  151 244 
+ MAL  SZ ES   2    944  7.07                                     0.7 5  151 244 
+ MAL  SZ I         944 12.42       498.0  0.3                           151 244 
+ PRA  SZ IP     D  943 49.30                                     0.0 9  167 127 
+ PRA  SZ I         943 49.69       615.6  0.4                           167 127 
+ PRA  SZ ES   2    944  9.12                                    -0.5 5  167 127 
+ FLO  SZ EP     C  944  8.91                                            346 171 
+ FLO  SZ I         945  7.64        59.1 0.60                           346 171 
+ GUA  SZ EP     D  944 21.93                                            449 120 
+ GUA  SZ ES     C  945  6.66                                            449 120 
+ GUA  SZ I         945  7.53        80.6 1.00                           449 120 
+ GUA  SZ  AMPG     944 22.58      1038.0 0.13                                   
+ GUA  SZ  AMSG     945  8.11      1389.0 0.30                                   
+ HEL  SZ EP     C  943 52.48                                            191  19 
+ HEL  SZ ES     C  944 13.65                                            191  19 
+ HEL  SZ  AMSG     944 16.92      3172.5 0.63                                   
+ HEL  SZ  AMPG     943 53.48       905.5 0.13                                   
+ BAR  SZ EP     D  944 16.37                                            395  55 
+ BAR  SZ ES     C  944 58.12                                            395  55 
+ BAR  SZ I         945  0.41        34.5 0.50                           395  55 
+ CUM  SZ EP   1    944 23.37                                    -0.6 4  457 205 
+ OCA  SZ EP        944 29.50                                    -0.2 4  507  37 
+ OCA  SZ ES   2    945 20.40                                    -1.1 2  507  37 
+ OCA  SZ I         945 25.53        97.5 0.60                           507  37 
+ POP  SZ EP   2    943 58.33                                     0.2 4  243 191 
+ POP  SZ ES   3    944 26.20                                     0.8 2  243 191 
+ POP  SZ I         944 31.14       245.3 0.20                           243 191 
+ ROSC BT ES     D  944 19.12                                                    
+ ROSC BT  AMSG     944 20.21      6667.0 0.60                                   
+ ROSC BZ IP     D  943 54.93                                     1.7 9  199  82 
+ ROSC BZ I         943 55.47       691.6 0.50                           199  82 
+ ROSC BZ  AMPG     943 55.29     23121.0 0.40                                   
+ ROSC BZ ES     D  944 18.51                                                    
+ ROSC BZ  AMSG     944 21.96      3376.5 0.40                                   
+ RUS  SZ EP     D  944 14.00                                            367  66 
+ RUS  SZ ES     D  944 51.68                                            367  66 
+ RUS  SZ I         944 56.64        81.3 0.70                           367  66 
+ RUS  SZ  AMPG     944 14.78        71.5 0.23                                   
+ RUS  SZ  AMSG     944 56.25       373.0 1.07                                   
+ SOL  SZ EP     C  943 56.96                                            246 323 
+ SOL  SZ I         944 34.05        83.6 0.60                           246 323 
+ TOL  SZ IP     D  943 41.26                                    -0.310   85  91 
+ TOL  SZ I         943 42.35      1463.1 0.20                            85  91 
+ TOL  SZ ES   2    943 54.96                                    -1.0 5   85  91 
+                                                                                

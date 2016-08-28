@@ -1,0 +1,34 @@
+ 2006 1124 0044 32.8 L   4.723 -76.121 98.7  RSN 11 0.7 3.4LRSN                1
+ GAP=159        1.64      11.8     7.2 16.8 -0.3828E+02  0.2833E+02 -0.2770E+02E
+ Epicentro: ARGELIA - VALLE                                                    3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20061124004432 L   I
+ 2006-11-24-0043-00S.COL___020                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PRA  SZ IP     D  045  0.01                                     0.4 9  177 130 
+ PRA  SZ ES   1    045 20.43                                    -0.2 7  177 130 
+ PRA  SZ I         045 28.57       191.8  0.5                           177 130 
+ ROSC BN ES   2    045 25.84                                    -0.1 4  199  86 
+ BAR  SZ EP   1    045 24.06                                    -1.0 4  389  57 
+ CRU  SZ EP     D  045 21.52                                            361 195 
+ CRU  SZ I         046  3.50        88.6 0.40                           361 195 
+ FLO  SZ EP     D  045 20.07                                            359 171 
+ FLO  SZ I         046 30.12        96.3 1.10                           359 171 
+ MAL  SZ EP     C  044 57.30                                            156 240 
+ MAL  SZ I         044 59.61       408.5 0.70                           156 240 
+ MAL  SZ ES   1    045 16.75                                     0.4 7  156 240 
+ MORA SZ IP     C  044 50.21                                    -0.810   88 109 
+ OCA  SZ EP     D  045 36.65                                            497  38 
+ OCA  SZ I         046 31.60        93.3 0.50                           497  38 
+ POP  SZ EP   1    045  9.80                                     0.7 6  256 190 
+ POP  SZ I         045 45.66       355.7 0.30                           256 190 
+ ROSC BZ IP     D  045  4.14                                     1.5 9  199  86 
+ ROSC BZ I         045  4.75       103.5 0.40                           199  86 
+ ROSC BZ  AMPG     045  4.66      3842.5 0.25                                   
+ ROSC BT ES     D  045 30.02                                                    
+ ROSC BT  AMSG     045 30.73      2513.9 2.00                                   
+ RUS  SZ EP     D  045 22.17                                            363  68 
+ RUS  SZ I         046  6.01        78.3 0.80                           363  68 
+ TOL  SZ EP     D  044 50.89                                             88 100 
+ TOL  SZ ES   1    045  4.99                                    -0.1 7   88 100 
+ TOL  SZ I         045 13.61       615.6 0.70                            88 100 
+                                                                                

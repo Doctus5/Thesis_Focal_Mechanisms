@@ -1,0 +1,43 @@
+ 2006  417 1623 30.4 L   4.899 -76.197114.0  RSN 11 0.8 3.9LRSN                1
+ GAP=184        1.57       8.4    14.1 21.2 -0.1692E+02  0.1083E+03  0.1600E+02E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20060417162329 L   I
+ Evento Sentido                                                                2
+ Reportado como sentido: Manizales, Caldas (Piso 20)                           3
+ 2006-04-17-1622-00S.COL___016                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ROSC BE ES   2   1624 26.12                                    -0.2 4  207  91 
+ CHI  SZ I        1624 11.09       616.2 0.50                           275  96 
+ CHI  SZ IP     C 1624 10.34                                                    
+ CUM  SZ EP       1624 34.34                                     0.0 5  483 202 
+ FLO  SZ EP     C 1624 19.95                                            379 170 
+ GUA  SZ EP     C 1624 31.28                                            474 123 
+ HEL  SZ ES     C 1624 17.26                                            164  26 
+ HEL  SZ I        1624 18.76       693.6 0.70                           164  26 
+ HEL  SZ IP     D 1623 56.68                                                    
+ HEL  SZ  AMSG    1624 18.83      4868.0 0.57                                   
+ HEL  SZ  AMPG    1623 57.25      1089.0 0.53                                   
+ OCA  SZ EP   1   1624 34.67                                     0.0 3  488  41 
+ OCA  SZ ES   2   1625 23.53                                    -1.2 2  488  41 
+ OCA  SZ I        1625 33.77       122.3 0.40                           488  41 
+ POP  SZ EP   1   1624 10.50                                     1.3 6  274 188 
+ POP  SZ I        1624 42.69       531.6 0.20                           274 188 
+ PRA  SZ IP     C 1623 59.78                                    -0.3 9  196 133 
+ PRA  SZ I        1624  0.05       467.8 0.40                           196 133 
+ PRA  SZ ES     D 1624 22.41                                            196 133 
+ PRA  SZ  AMSG    1624 23.53      3764.0 0.27                                   
+ PRA  SZ  AMPG    1624  0.13      6174.0 0.17                                   
+ ROSC BZ IP     C 1624  3.12                                     1.3 8  207  91 
+ ROSC BZ I        1624  3.89       320.1 0.70                           207  91 
+ ROSC BZ  AMPG    1624  3.46      8305.5 0.45                                   
+ ROSC BZ ES     D 1624 28.54                                                    
+ ROSC BZ  AMSG    1624 29.36      2763.0 1.15                                   
+ ROSC BT ES     C 1624 28.60                                                    
+ ROSC BT  AMSG    1624 29.11      4230.1 1.30                                   
+ RUS  SZ EP       1624 19.79                                    -0.3 6  364  72 
+ TOL  SZ IP     C 1623 50.98                                     0.010  101 110 
+ TOL  SZ ES     C 1624  6.69                                            101 110 
+ TOL  SZ I        1624 11.21      4219.4 0.60                           101 110 
+ TOL  SZ  AMSG    1624  7.16     15557.0 0.27                                   
+ TOL  SZ  AMPG    1623 51.51     51244.0 0.20                                   
+                                                                                

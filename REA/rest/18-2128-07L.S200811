@@ -1,0 +1,61 @@
+ 2008 1118 2128  7.7 L   4.946 -76.162100.2  RSN 16 0.6 3.5LRSN                1
+ GAP= 84        1.38       5.3     6.7 13.3 -0.8051E+01  0.3573E+02 -0.8808E+01E
+ Epicentro: SAN JOSE DEL PALMAR - CHOCO                                        3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20081118212807 L   I
+ 2008-11-18-2127-04S.COL___049                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RREF BE ES   2   2128 41.38                             135     0.0 5   91  93 
+ ANIL BN ES   1   2128 41.82                             132     0.1 7   98 121 
+ HEL  BE ES   1   2128 52.01                             119     0.0 7  154  27 
+ CHI  HE ES   2   2129 16.94                             106     0.9 4  272  97 
+ ANIL BT ES     C 2128 41.82                                                    
+ BAR  SZ EP     D 2128 58.40                             101            377  61 
+ BAR  SZ ES     D 2129 37.80                                                    
+ BAR  SZ  AMPG    2128 58.72        63.0 0.18                                   
+ BAR  SZ  AMSG    2129 38.41       227.0 0.98                                   
+ BET  SZ EP     C 2128 43.98                             106            263 162 
+ BET  SZ I        2128 45.47       401.1 0.18                           263 162 
+ BET  SZ ES     D 2129 12.63                             106            263 162 
+ BET  SZ  AMPG    2128 44.98      6655.5 0.37                                   
+ BET  SZ  AMSG    2129 13.59      1546.5 0.33                                   
+ CAP2 HT ES     D 2129  6.23                                                    
+ CAP2 HZ I        2129  7.24       168.0 0.26                           430 342 
+ CAP2 HZ EP     C 2129  4.15                                                    
+ CAP2 HZ ES     C 2129  6.09                                                    
+ ANIL BZ IP     C 2128 26.55                             132    -0.310   98 121 
+ ANIL BZ ES     D 2128 41.97                                                    
+ CHI  HZ IP     C 2128 47.45                             106     1.4 8  272  97 
+ CHI  HZ I        2128 48.03       121.7 0.46                           272  97 
+ CRU  SZ EP     C 2128 58.88                             101            384 193 
+ CRU  SZ I        2129 44.90       107.6 0.64                           384 193 
+ GCUF BZ EP   2   2129  5.16                              99    -0.3 3  432 198 
+ HEL  BZ IP     D 2128 32.31                             119            154  27 
+ HEL  BZ I        2128 54.19       168.5 0.43                           154  27 
+ HEL  BT ES     C 2128 52.01                                                    
+ KEN  SZ EP   2   2129 40.14                              81    -0.3 1  720  19 
+ KEN  SZ I        2129 50.23        14.5 0.24                           720  19 
+ MAL  SZ IP     C 2128 34.28                             116     0.9 9  166 232 
+ MAL  SZ ES   2   2128 53.71                             116     0.3 5  166 232 
+ MAL  SZ I        2129  7.22       412.5 0.41                           166 232 
+ OCA  SZ EP   1   2129 10.52                                            481  41 
+ OCA  SZ ES     C 2129 58.71                                            481  41 
+ OCA  SZ I        2130  3.71       276.4 0.46                           481  41 
+ PCON BZ EP     D 2128 48.46                             105            291 185 
+ PCON BZ ES     C 2129 21.34                                                    
+ PCON BZ  AMPG    2128 49.06      6299.0 0.24                                   
+ PCON BZ  AMSG    2129 21.55      3987.0 0.44                                   
+ RREF BZ IP     C 2128 26.85                             135     0.210   91  93 
+ RREF BZ ES     D 2128 41.37                                                    
+ RREF BZ  AMSG    2128 41.71      7570.5 0.20                                   
+ RREF BZ  AMPG    2128 27.44     16257.5 0.20                                   
+ RREF BT ES     D 2128 42.05                                                    
+ RREF BT  AMSG    2128 43.21     32600.5 0.34                                   
+ RUS  HZ EP     D 2128 56.67                             102            357  73 
+ RUS  HZ I        2128 58.22        39.6 0.28                           357  73 
+ SOL  SZ EP   2   2128 36.07                             112    -0.8 4  198 316 
+ SOL  SZ I        2129  8.34       147.9 0.41                           198 316 
+ TOL  SZ IP     C 2128 26.33                             131    -0.910  102 113 
+ TOL  SZ ES     C 2128 41.77                             131            102 113 
+ TOL  SZ  AMSG    2128 42.55     16049.0 0.20                                   
+ TOL  SZ  AMPG    2128 26.98      9891.0 0.36                                   
+                                                                                

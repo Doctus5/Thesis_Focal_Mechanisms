@@ -1,0 +1,48 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-08 09:57:31
+The operator was: rest
+The s-file content at creation:
+ 2005 1025 0943 23.2 L   4.604 -76.107104.0  RSN 13 0.8 3.5LRSN                1
+ GAP= 78        1.68       7.4     6.2 17.7 -0.7066E+01  0.1445E+02 -0.1264E+02E
+ Epicentro: TORO - VALLE                                                       3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20051025094323 L   I
+ 2005-10-25-0942-00S.COL___017                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TOL  SZ IP     D  943 41.26                                    -0.310   85  91 
+ TOL  SZ I         943 42.35      1463.1  0.2                            85  91 
+ TOL  SZ ES   2    943 54.96                                    -1.0 5   85  91 
+ MAL  SZ EP        943 48.19                                     0.7 9  151 244 
+ MAL  SZ ES   2    944  7.07                                     0.7 5  151 244 
+ MAL  SZ I         944 12.42       498.0  0.3                           151 244 
+ PRA  SZ IP     D  943 49.30                                     0.0 9  167 127 
+ PRA  SZ I         943 49.69       615.6  0.4                           167 127 
+ PRA  SZ ES   2    944  9.12                                    -0.5 5  167 127 
+ HEL  SZ EP        943 52.48                                     0.2 9  191  19 
+ HEL  SZ ES   2    944 13.66                                    -1.3 4  191  19 
+ HEL  SZ I         944 16.80       416.4  1.0                           191  19 
+ ROSC BZ IP     D  943 54.93                                     1.7 9  199  82 
+ ROSC BZ I         943 55.47       691.6  0.5                           199  82 
+ ROSC BE ES        944 16.87                                     0.2 9  199  82 
+ POP  SZ EP   2    943 58.33                                     0.2 4  243 191 
+ POP  SZ ES   3    944 26.20                                     0.8 2  243 191 
+ POP  SZ I         944 31.14       245.3  0.2                           243 191 
+ SOL  SZ EP        943 56.97                                    -1.2 8  246 323 
+ SOL  SZ I         944 34.05        83.6  0.6                           246 323 
+ FLO  SZ EP        944  8.92                                    -1.1 6  346 171 
+ FLO  SZ I         945  7.64        59.1  0.6                           346 171 
+ RUS  SZ EP        944 13.70                                     0.7 6  367  66 
+ RUS  SZ ES   2    944 51.65                                    -0.3 3  367  66 
+ RUS  SZ I         944 56.64        81.3  0.7                           367  66 
+ BAR  SZ EP        944 16.39                                     0.1 6  395  55 
+ BAR  SZ ES   2    944 58.14                                     0.5 3  395  55 
+ BAR  SZ I         945  0.41        34.5  0.5                           395  55 
+ GUA  SZ EP        944 21.93                                    -0.5 5  449 120 
+ GUA  SZ ES   1    945  6.65                                    -2.0 4  449 120 
+ GUA  SZ I         945  7.53        80.6  1.0                           449 120 
+ CUM  SZ EP   1    944 23.37                                    -0.6 4  457 205 
+ OCA  SZ EP        944 29.50                                    -0.2 4  507  37 
+ OCA  SZ ES   2    945 20.40                                    -1.1 2  507  37 
+ OCA  SZ I         945 25.53        97.5  0.6                           507  37 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

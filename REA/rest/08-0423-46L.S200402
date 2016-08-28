@@ -1,0 +1,40 @@
+ 2004  2 8 0423 46.6 L   4.731 -76.237100.5  RSN 11 1.0 3.3LRSN                1
+ GAP=148        2.06      11.7    10.0 28.8 -0.3065E+02  0.6007E+02 -0.1554E+02E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20040208042346 L   I
+ 2004-02-08-0421-37S.COL___015                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ROSC BN ES        424 43.85                                     1.4 8  212  86 
+ GUA  SZ EP     D  424 47.13                                            468 121 
+ MAL  SZ EP     D  424 10.57                                            145 237 
+ MAL  SZ ES     D  424 10.57                                                    
+ ROSC BT ES     D  424 45.47                                                    
+ ROSC BZ EP        424 19.05                                     1.1 8  212  86 
+ BAR  SZ EP     C  424 39.62                                            400  58 
+ BAR  SZ ES     D  425 20.79                                            400  58 
+ BAR  SZ  AMSG     425 22.68       371.5 0.23                           400  58 
+ BAR  SZ  AMPG     424 40.05       610.5 0.20                                   
+ CHI  SZ EP     C  424 26.20                                            278  92 
+ CHI  SZ ES     C  424 56.37                                            278  92 
+ CHI  SZ  AMPG     424 26.55       320.0 0.27                           278  92 
+ CHI  SZ  AMSG     424 59.33       471.0 0.43                                   
+ FLO  SZ EP     D  424 33.57                                            362 169 
+ FLO  SZ ES     C  425 11.69                                                    
+ FLO  SZ  AMSG     425 11.89       455.5 0.33                                   
+ FLO  SZ  AMPG     424 34.05       524.0 0.20                                   
+ OCA  SZ ES     C  425 43.63                                            505  40 
+ OCA  SZ EP     C  424 52.56        63.9 0.90                           505  40 
+ OCA  SZ  AMSG     425 43.88       230.5 0.20                                   
+ OCA  SZ  AMPG     424 53.21       246.5 0.20                                   
+ HEL  SZ EP     C  424 14.16                                            183  25 
+ HEL  SZ ES     C  424 34.60                                            183  25 
+ HEL  SZ  AMSG     424 36.08       575.0 0.30                           183  25 
+ HEL  SZ  AMPG     424 14.69       190.5 0.17                                   
+ PRA  SZ EP     D  424 14.63                                            187 128 
+ PRA  SZ ES     C  424 35.20                                            187 128 
+ PRA  SZ  AMSG     424 36.41      6287.5 0.30                           187 128 
+ PRA  SZ  AMPG     424 15.15      5034.0 0.23                                   
+ TOL  SZ EP     D  424  5.51                                            101  99 
+ TOL  SZ ES     C  424 20.13                                            101  99 
+ TOL  SZ  AMPG     424  5.94     24119.5 0.20                           101  99 
+ TOL  SZ  AMSG     424 20.36     15109.0 0.23                                   
+                                                                                

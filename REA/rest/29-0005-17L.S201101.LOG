@@ -1,0 +1,42 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-08 12:06:32
+The operator was: rest
+The s-file content at creation:
+ 2011  129 0005 17.6 L   4.874 -76.113108.0  RSN 16 0.6 4.3LRSN                1
+ GAP= 81        1.40       4.3     5.6 10.0 -0.6460E+01  0.2383E+02  0.4698E+01E
+ Epicentro: EL AGUILA - VALLE                                                  3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20110129000517 L   I
+ 2011-01-29-0000-00M.COL___139                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ GUY  SZ IP     D  0 5 37.25                             137     0.210   91  65 
+ GUY  SE ES        0 5 52.38                             137     0.110   91  65 
+ GUY  SZ I         0 5 57.21      7753.2 0.69                            91  65 
+ TOL  SZ IP     C  0 5 37.29                             136     0.210   93 110 
+ TOL  SZ ES        0 5 52.15                             136    -0.110   93 110 
+ NOR  SZ IP     D  0 5 42.73                             119    -0.2 9  157  61 
+ NOR  SN ES        0 6  2.61                             119     0.0 9  157  61 
+ HEL  HZ IP     C  0 5 43.24                             119    -0.3 9  159  24 
+ HEL  HE ES        0 6  2.84                             119    -0.9 9  159  24 
+ HEL  HZ I         0 6  5.49      2141.8 0.80                           159  24 
+ HORQ SZ IP     C  0 5 43.29                             118    -0.6 9  164 200 
+ HORQ SN ES   1    0 6  4.07                             118    -0.3 7  164 200 
+ HORQ SZ I         0 6  9.07      2795.9 0.79                           164 200 
+ MAL  SZ ES   2    0 6  5.75                             118     1.7 5  166 235 
+ MAL  SZ I         0 6 14.94      1166.2 0.52                           166 235 
+ ROSC BZ IP     C  0 5 49.00                             113     1.1 9  199  91 
+ SOL  SZ EP        0 5 49.25                             112     1.0 8  207 316 
+ DBB  SZ IP     C  0 5 51.49                             109    -0.3 8  237 357 
+ BET  SZ IP     D  0 5 53.28                             107    -0.4 8  254 163 
+ CHI  HZ IP     C  0 5 56.38                             106     0.9 8  265  96 
+ CHI  HZ I         0 5 57.73      1489.0 0.59                           265  96 
+ CHI  HE ES   1    0 6 24.65                             106    -0.4 6  265  96 
+ POP2 HZ EP   1    0 5 54.40                             106    -0.9 6  265 194 
+ PCON HZ IP     D  0 5 57.96                             105     0.2 7  283 186 
+ PCON HZ I         0 6 34.42       962.3 0.67                           283 186 
+ SJA  SZ IP     D  0 5 58.96                             104     0.0 7  298 126 
+ SOTA HZ IP     D  0 6  0.27                             103    -0.3 7  308 190 
+ SOTA HZ I         0 6 50.66       981.9 0.65                           308 190 
+ CRU  SZ EP        0 6  8.68                              99    -0.1 6  377 194 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

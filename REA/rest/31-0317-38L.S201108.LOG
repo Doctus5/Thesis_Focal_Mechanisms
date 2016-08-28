@@ -1,0 +1,60 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-11 11:28:50
+The operator was: rest
+The s-file content at creation:
+ 2011  831 0317 38.1 L   4.634 -76.248 80.1  RSN 21 0.5 3.6LRSN                1
+ GAP= 83        1.36       3.6     4.4 11.6 -0.7203E+01  0.1609E+02 -0.6708E+01E
+ Epicentro: VERSALLES - VALLE                                                  3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20110831031738 L   I
+ 2011-08-31-0315-38S.COL___165                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ANIL HZ IP     D  317 55.06                             126    -0.310   95 100 
+ ANIL HE ES   1    318  7.87                             126    -0.9 7   95 100 
+ TOL  SZ IP        317 56.15                             123     0.010  103  93 
+ RREF HZ EP        317 56.88                             123     0.210  104  74 
+ RREF HN ES   1    318 11.67                             123     0.4 7  104  74 
+ RREF HZ I         318 14.93      1064.8 0.22                           104  74 
+ GUY  SZ EP   1    317 57.38                             120    -0.3 7  115  56 
+ GUY  SE ES   1    318 12.93                             120     0.0 7  115  56 
+ GUY  SZ I         318 21.11      1189.0 0.53                           115  56 
+ HORQ SZ EP        317 59.27                             116    -0.210  134 198 
+ HORQ SE ES        318 16.81                             116     0.710  134 198 
+ HORQ SZ I         318 19.58      1624.6 0.40                           134 198 
+ MAL  SZ EP        318  0.61                             115     1.0 9  139 240 
+ MAL  SZ I         318 29.67       557.9 0.43                           139 240 
+ PRA  HZ EP        318  4.50                             108    -0.2 9  182 124 
+ PRA  HE ES        318 25.23                             108    -0.2 9  182 124 
+ NOR  SZ EP        318  5.07                             108     0.1 9  184  56 
+ NOR  SN ES   1    318 26.07                             108     0.2 7  184  56 
+ HEL  HZ EP        318  5.71                             108    -0.3 9  190  25 
+ HEL  HN ES   1    318 27.45                             108    -0.3 7  190  25 
+ HEL  HZ I         318 31.97       228.9 0.26                           190  25 
+ MARA HZ EP        318  7.08                             106    -0.1 9  201 171 
+ MARA HN ES   1    318 29.15                             106    -0.7 6  201 171 
+ MARA HZ I         318 31.65       871.8 0.20                           201 171 
+ ROSC BZ IP     D  318 10.35                             105     1.3 8  215  84 
+ ROSC BZ I         318 11.28       371.5 0.41                           215  84 
+ ROSC BE ES   1    318 33.68                             105     0.5 6  215  84 
+ SOL  SZ EP        318  8.36                             105    -0.5 8  218 324 
+ POP2 HZ EP        318 10.47                             104    -0.9 8  236 192 
+ POP2 HN ES   1    318 37.01                             104    -0.3 6  236 192 
+ POP2 HZ I         318 41.91       663.9 0.16                           236 192 
+ CHI  HZ EP        318 17.57                             101     0.8 7  279  90 
+ CHI  HZ I         318 18.57       217.0 0.43                           279  90 
+ SOTA HZ EP   1    318 16.52                             101    -0.3 6  279 188 
+ SOTA HZ I         318 57.73       240.8 0.76                           279 188 
+ VIL  SZ EP   1    318 18.53                             101     0.9 5  289 101 
+ VIL  SZ I         318 20.46       670.4 0.41                           289 101 
+ SJA  SZ IP        318 18.06                             100    -0.4 7  296 120 
+ SJA  SZ I         318 58.49       330.7 0.81                           296 120 
+ CRU  SZ EP        318 24.74                              99    -0.3 6  348 193 
+ ZAR  HZ EP   2    318 24.83                              98    -0.2 3  352  26 
+ ZAR  HN ES   1    319  1.15                              98    -0.5 5  352  26 
+ ZAR  HZ I         319  4.36        72.0 0.24                           352  26 
+ RUS  HZ EP   1    318 29.28                              98     0.5 5  377  68 
+ RUS  HE ES   1    319  8.08                              98    -0.3 5  377  68 
+ BRR  HZ EP        318 29.19                              97    -0.8 6  392  46 
+ BRR  HZ I         318 30.32        52.6 0.13                           392  46 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

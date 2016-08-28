@@ -1,0 +1,68 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-10 19:24:19
+The operator was: rest
+The s-file content at creation:
+ 2010  3 3 0746 25.9 L   4.801 -76.221107.6  RSN 22 0.6 4.0LRSN                1
+ GAP= 85        1.42       3.6     5.4 10.0 -0.3708E+01  0.3029E+02 -0.1303E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ Evento Sentido                                                                2
+ Reportado com Sentido:                                                        3
+ RIOSUCIO, MANIZALES, CHINCHINA (CALDAS), PEREIRA (RISARALDA), MONTENEGRO,     3
+ ARMENIA, (QUINDIO)                                                            3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20100303074625 L   I
+ 2010-03-03-0744-20S.COL___094                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ANIL BZ IP        746 45.17                             135    -0.410   97 111 
+ ANIL BN ES        747  0.42                             135    -0.510   97 111 
+ RREF BZ IP        746 46.34                             135     0.210   98  83 
+ RREF BE ES        747  2.44                             135     0.610   98  83 
+ RREF BZ I         747  4.56      9334.9 0.36                            98  83 
+ TOL  SZ EP        746 45.14                             133    -1.010  103 103 
+ TOL  SZ ES   2    747  0.99                             133    -0.9 5  103 103 
+ GUY  HZ EP        746 46.75                             132     0.210  106  64 
+ GUY  HE ES   2    747  2.84                             132     0.1 5  106  64 
+ MAL  SZ IP     C  746 51.55                             121     1.1 9  151 235 
+ MAL  SZ ES   2    747 10.26                             121     0.7 5  151 235 
+ MAL  SZ I         747 23.16      2362.5 0.68                           151 235 
+ HEL  HZ EP        746 52.58                             117    -0.5 9  172  26 
+ HEL  HE ES        747 14.22                             117    -0.1 9  172  26 
+ HEL  HZ I         747 15.87      1915.7 0.54                           172  26 
+ PRA  HZ EP        746 54.98                             114     0.2 9  191 129 
+ PRA  HE ES        747 17.74                             114     0.5 9  191 129 
+ PRA  HZ I         747 19.08      2792.2 0.57                           191 129 
+ SOL  SZ IP        746 56.12                             112    -0.2 8  205 320 
+ SOL  SZ I         747 22.75       548.7 0.25                           205 320 
+ MARA BZ EP        746 58.40                             111     0.2 8  219 172 
+ MARA BN ES   1    747 22.70                             111    -0.7 6  219 172 
+ DBB  SZ EP        747  1.18                             108     0.2 8  245   0 
+ DBB  SZ ES   2    747 28.52                             108     0.2 4  245   0 
+ POP2 HZ EP        747  1.79                             107    -0.6 8  255 191 
+ POP2 HE ES   1    747 30.07                             107    -0.7 6  255 191 
+ POP2 HZ I         747 31.74       936.2 0.24                           255 191 
+ PCON BZ EP        747  5.70                             106     0.7 8  274 184 
+ PCON BN ES   2    747 35.59                             106     0.1 4  274 184 
+ PCON BZ I         747 42.61       416.5 0.47                           274 184 
+ CHI  HZ IP        747  6.66                             105     1.5 7  277  94 
+ CHI  HZ I         747  7.58      1499.0 0.49                           277  94 
+ CHI  HE ES   2    747 35.78                             105     0.1 4  277  94 
+ SOTA BZ EP        747  7.58                             104    -0.1 7  298 188 
+ SOTA BZ I         747 51.38       125.0 0.64                           298 188 
+ CRU  SZ EP        747 15.96                             100     0.2 6  367 193 
+ CRU  SZ ES   2    747 53.92                             100    -0.7 3  367 193 
+ CRU  SZ I         748  3.80       247.8 0.49                           367 193 
+ RUS  BZ EP        747 16.69                             100     0.6 6  368  71 
+ RUS  BZ I         747 56.27        95.6 0.62                           368  71 
+ BRR  HZ IP        747 15.92                              99    -0.6 6  377  47 
+ BRR  HZ I         747 57.92       256.7 0.34                           377  47 
+ BAR2 SZ EP   1    747 18.36                              99    -0.1 4  390  59 
+ GCAL SZ EP   1    747 21.27                              97    -0.7 4  419 199 
+ GCAL SN ES   2    748  4.62                              97    -1.0 3  419 199 
+ GCAL SZ I         748 18.17       642.3 0.33                           419 199 
+ MON  HZ EP        747 23.69                              96    -1.0 5  444   8 
+ MON  HZ I         748 14.38        58.2 0.41                           444   8 
+ OTAV B2 EP   1    747 38.82                              93    -0.7 3  562 206 
+ SDV  BZ EP        748  2.78                              91    -1.2 1  765  54 
+ SDV  BZ I         748  5.53        56.6 0.11                           765  54 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

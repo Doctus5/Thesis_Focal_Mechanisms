@@ -1,0 +1,43 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-08 09:57:41
+The operator was: rest
+The s-file content at creation:
+ 2007  5 8 2203 10.0 L   4.689 -76.227100.2  RSN 12 0.7 4.0LRSN                1
+ GAP= 84        1.58       7.0     7.3 21.0 -0.6202E+01  0.2024E+02  0.6578E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ Evenoto Sentido                                                               2
+ Reportado como Sentido: PEREIRA(RISARALDA)-MANIZALES(CALDAS)                  3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20070508220310 L   I
+ 2007-05-08-2202-00S.COL___019                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TOL  SZ IP     C 22 3 29.57                                     0.310   99  96 
+ TOL  SZ ES   2   22 3 44.32                                     0.0 5   99  96 
+ TOL  SZ I        22 3 51.17      4382.8  0.6                            99  96 
+ MAL  SZ EP       22 3 34.14                                     0.9 9  144 239 
+ MAL  SZ I        22 3 36.99      2036.0  0.2                           144 239 
+ MAL  SZ ES   3   22 3 52.31                                     0.9 2  144 239 
+ PRA  SZ IP     C 22 3 37.53                                    -0.1 9  184 127 
+ PRA  SZ ES   3   22 3 58.26                                    -1.0 2  184 127 
+ PRA  SZ I        22 4  1.25      1213.2  0.9                           184 127 
+ HEL  SZ EP       22 3 37.74                                    -0.7 9  187  24 
+ HEL  SZ ES   1   22 4  0.15                                    -0.4 7  187  24 
+ HEL  SZ I        22 4  4.57      1157.8  0.7                           187  24 
+ ROSC BZ EP       22 3 42.23                                     1.0 8  211  85 
+ ROSC BZ I        22 3 48.72       178.4  0.6                           211  85 
+ ROSC BE ES   2   22 4  6.28                                     0.6 4  211  85 
+ SOL  SZ EP       22 3 40.84                                    -0.3 8  215 322 
+ SOL  SZ I        22 3 41.20       567.2  0.3                           215 322 
+ POP  SZ EP       22 3 44.62                                    -1.0 8  250 188 
+ POP  SZ ES   2   22 4 12.11                                    -1.4 4  250 188 
+ POP  SZ I        22 4 14.53      1414.0  0.2                           250 188 
+ 1151 HZ EP       22 3 49.43                                     0.5 7  277  91 
+ BAR  SZ EP   1   22 4  2.69                                    -1.0 4  401  57 
+ BAR  SZ I        22 5 17.70       137.6  1.2                           401  57 
+ GUA  SZ EP       22 4  9.26                                            465 121 
+ GUA  SZ I        22 4  9.67       213.3  0.2                           465 121 
+ OCA  SZ EP   1   22 4 15.37                                    -1.2 3  507  39 
+ OCA  SZ I        22 5  7.97       378.1  0.7                           507  39 
+ KEN  SZ IP       22 4 44.93                                    -1.4 1  750  19 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

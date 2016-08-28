@@ -1,0 +1,93 @@
+ 2011 1110 1635 44.0 L   4.704 -76.336 96.5  RSN 14 0.4 3.7LRSN                1
+ GAP=132        0.90       2.7     3.4  6.1 -0.2535E+01  0.2426E+01  0.2110E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20111110163544 L   I
+ 2011-11-10-1633-52S.COL___178                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PAL  HN ES   1   1636  8.42                             166     0.4 8   23  15 
+ ANIL HE ES   1   1636 18.10                             129    -0.7 7  106 103 
+ RREF HE ES   1   1636 20.03                             128    -0.6 7  112  79 
+ GUY  SE ES   1   1636 21.43                             126    -0.2 7  120  61 
+ HORQ SN ES   1   1636 25.07                             121     0.4 7  139 193 
+ HEL  HN ES   1   1636 34.04                             113    -0.3 7  187  29 
+ NOR  SN ES   1   1636 34.28                             113     0.4 7  188  60 
+ PRA  HN ES   1   1636 35.64                             112     0.5 7  195 124 
+ SOL  SZ EP       1636 14.21                             111     0.3 9  206 325 
+ VIL  SN ES   1   1636 58.29                             104     0.7 5  301 102 
+ GOR  SZ EP     D 1636 20.62                                                    
+ ANIL HZ IP     D 1636  3.32                             129    -0.210  106 103 
+ ANIL HZ I        1636 20.80      3139.6 0.27                           106 103 
+ ANIL HZ ES     C 1636 19.16                                                    
+ ANIL HZ  AMPG    1636  3.59     18603.0 0.26                                   
+ ANIL HZ  AMSG    1636 20.29     33739.5 0.34                                   
+ ANIL HT ES     C 1636 19.32                                                    
+ ANIL HT  AMSG    1636 19.75     71241.4 0.42                                   
+ BET  SZ EP     C 1636 18.51                             107            245 156 
+ BET  SZ ES     C 1636 45.33                             107            245 156 
+ BET  SZ  AMPG    1636 19.05       871.5 0.15                                   
+ BET  SZ  AMSG    1636 46.80      1157.0 0.40                                   
+ CVER SZ EP     C 1636 21.25                                                    
+ GUY  SZ EP     C 1636  5.58                             126            120  61 
+ GUY  SZ I        1636  7.19      1130.4 0.36                           120  61 
+ GUY  SZ  AMPG    1636  5.76      1155.5 0.26                                   
+ GUY  SZ ES     D 1636 23.55                                                    
+ GUY  SZ  AMSG    1636 24.07      1734.5 0.32                                   
+ GUY  ST ES     D 1636 22.67                                                    
+ GUY  ST  AMSG    1636 23.83      3411.2 0.36                                   
+ HEL  HZ EP     D 1636 11.55                             113            187  29 
+ HEL  HZ I        1636 37.35       311.2 0.47                           187  29 
+ HEL  HZ  AMPG    1636 12.17      1347.5 0.20                                   
+ HEL  HT ES     D 1636 33.44                                                    
+ HEL  HT  AMSG    1636 36.14      6343.1 0.44                                   
+ HORQ SZ EP     D 1636  6.97                             121            139 193 
+ HORQ SZ I        1636 28.76       668.2 0.31                           139 193 
+ HORQ SZ  AMPG    1636  7.28       417.5 0.20                                   
+ HORQ SZ ES     D 1636 25.12                                                    
+ HORQ SZ  AMSG    1636 28.37      1443.0 0.46                                   
+ HORQ ST ES     D 1636 25.42                                                    
+ HORQ ST  AMSG    1636 26.07       968.8 0.24                                   
+ NOR  SZ EP   1   1636 12.08                             113     0.1 7  188  60 
+ NOR  SZ  AMPG    1636 13.04       222.0 0.36                                   
+ NOR  SZ ES     C 1636 34.39                                                    
+ NOR  SZ  AMSG    1636 35.54       390.0 0.50                                   
+ NOR  ST ES     D 1636 34.44                                                    
+ NOR  ST  AMSG    1636 35.70       794.0 0.46                                   
+ OCA  SZ ES     C 1637 41.69                                                    
+ PAL  HZ IP     D 1635 57.82                                                    
+ PAL  HZ ES     D 1636 11.68                                                    
+ PAL  HZ  AMPG    1635 58.18     29896.5 0.10                                   
+ PAL  HZ  AMSG    1636 12.05      34.4e4 0.10                                   
+ PAL  HT ES     D 1636 11.82                                                    
+ PAL  HT  AMSG    1636 12.17      23.0e4 0.26                                   
+ PAM  ST ES     D 1637 37.81                                                    
+ POP2 HZ EP     D 1636 18.16                             108            242 189 
+ POP2 HZ I        1636 52.22       283.6 0.11                           242 189 
+ POP2 HN ES       1636 45.21                             108    -0.2 8  242 189 
+ PRA  HZ EP     D 1636 12.79                             112            195 124 
+ PRA  HZ  AMPG    1636 13.38      4936.0 0.20                                   
+ PRA  HZ  AMSG    1636 36.75     16746.0 0.46                                   
+ PRA  HT ES     C 1636 36.10                                                    
+ PRA  HT  AMSG    1636 37.59      11.0e4 0.48                                   
+ ROSC BT ES     C 1636 45.33                                                    
+ ROSC BT  AMSG    1636 46.60     14231.4 0.80                                   
+ ROSC BZ ES     D 1636 45.72                                                    
+ ROSC BZ  AMPG    1636 18.52      1015.0 0.35                                   
+ RREF HZ IP     D 1636  4.86                             128            112  79 
+ RREF HZ  AMPG    1636  5.39     28005.0 0.22                           112  79 
+ RREF HT ES     D 1636 21.71                                                    
+ RREF HT  AMSG    1636 22.30     47938.6 0.54                                   
+ TOL  SZ IP     C 1636  4.34                                                    
+ TOL  SZ  AMPG    1636  4.65      2039.0 0.25                                   
+ TOL  SZ ES     C 1636 20.81                                                    
+ TOL  SZ  AMSG    1636 20.92       588.0 0.25                                   
+ VIL  SZ EP     C 1636 26.46                             104            301 102 
+ VIL  SZ I        1637  4.08       433.7 0.58                           301 102 
+ VIL  SZ ES     D 1636 59.82                                                    
+ VIL  SZ  AMPG    1636 27.63       446.0 0.76                                   
+ VIL  SZ  AMSG    1637  0.64       322.5 0.56                                   
+ VIL  ST ES     D 1636 59.71                                                    
+ VIL  ST  AMSG    1636 59.91       769.0 1.18                                   
+ ZAR  HT ES     C 1637  6.68                                                    
+ ZAR  HZ EP   1   1636 30.23                             102    -0.8 5  349  28 
+ ZAR  HZ I        1637  7.60       158.4 0.34                           349  28 
+                                                                                

@@ -1,0 +1,35 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-02 11:49:39
+The operator was: rest
+The s-file content at creation:
+ 1997  116 0036 29.9 L   4.860 -76.213105.4  RSN 10 0.8 3.3LRSN                1
+ GAP= 99        2.00      10.3    10.3 23.0 -0.2528E+02  0.9353E+02 -0.1913E+02E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:19970116003629 L   I
+ 1997-01-16-0036-00S.COL___011                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TOL  SZ EP   0    036 49.83                                     0.110  101 107 
+ TOL  SZ ES   1    037  4.24                                    -1.1 7  101 107 
+ TOL  SZ I         037  9.50      1139.9  0.6                           101 107 
+ MAL  SZ EP        036 55.82                                     1.1 9  156 233 
+ MAL  SZ I         037 11.70       336.7  1.4                           156 233 
+ NOR  SZ EP   0    036 56.28                                     0.2 9  167  61 
+ NOR  SZ ES   0    037 16.90                                     0.4 9  167  61 
+ NOR  SZ I         037 18.52       388.4  0.4                           167  61 
+ PRA  SZ IP   0 C  036 58.90                                    -0.1 9  194 131 
+ PRA  SZ ES   1    037 21.58                                    -0.1 7  194 131 
+ PRA  SZ I         037 22.68       234.9  0.6                           194 131 
+ SOL  SZ EP   1    036 59.73                                    -1.7 6  217 321 
+ SOL  SZ I         037 25.10       117.2  0.8                           217 321 
+ BET  SZ EP   1    037  5.89                                    -0.2 6  256 160 
+ CHI  SZ EP   0    037 10.19                                     1.2 7  277  95 
+ CHI  SZ I         037 10.72       169.5  0.3                           277  95 
+ RUS  SZ EP   0    037 19.79                                     0.0 6  367  71 
+ RUS  SZ I         038  6.25        26.7  0.4                           367  71 
+ FLO  SZ EP   0    037 18.95                                    -1.4 6  376 170 
+ FLO  SZ I         037 58.58        27.2  0.8                           376 170 
+ BAR  SZ EP        037 21.68                                    -0.6 6  390  59 
+ BAR  SZ ES   3    038  2.12                                    -1.1 1  390  59 
+ BAR  SZ I         038  5.19        78.4  0.3                           390  59 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

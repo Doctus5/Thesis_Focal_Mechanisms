@@ -1,0 +1,45 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-12 15:20:07
+The operator was: rest
+The s-file content at creation:
+ 2012  219 2350 16.7 L   4.741 -76.177 89.9  RSN 12 0.4 3.6LRSN 4.0WRSN        1
+ SPEC AVERAGE  MO 15.0 ST142.4 OM  5.3 f0 4.60 R0.3215 AL 3.15 WI 14.5 MW  4.0 3
+ SPEC SD       MO  0.0 ST 22.3 OM  2.6 f00.385 R0.0269 AL      WI      MW  0.0 3
+ GAP=127        0.94       3.3     3.9  6.3 -0.5301E+01 -0.4480E+01  0.1911E+01E
+ SPEC RREFHH Z MO 15.0 ST164.8 OM  2.7 f0 4.99 R0.2946 AL 3.81 WI 14.5 MW  3.9 3
+ SPEC RREFHH Z T235034 K 0.020 GD  129 VP 7.60 DE 3.20 Q0230.0 QA 0.60 VS 4.20 3
+ SPEC YOT HH Z MO 15.1 ST120.1 OM  2.8 f0 4.22 R0.3483 AL 2.49 WI 14.5 MW  4.0 3
+ SPEC YOT HH Z T235033 K 0.020 GD  124 VP 7.60 DE 3.20 Q0230.0 QA 0.60 VS 4.20 3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20120219235016 L   I
+ 2012-02-19-2347-44S.COL___167                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PAL  HZ EP   1   2350 29.32                             165   -0.04 7 21.6 327 
+ PAL  HN ES   1   2350 39.42                             165    0.19 7 21.6 327 
+ YOT  HZ IP     D 2350 33.43                             133   -0.1910 85.8 193 
+ YOT  HE ES   1   2350 47.74                             133    0.92 7 85.8 193 
+ YOT  HZ I        2350 48.71      2133.4 0.40                          85.8 193 
+ ANIL HZ IP     D 2350 33.68                             132   -0.5810 90.2 108 
+ ANIL HN ES   1   2350 47.32                             132   -0.64 7 90.2 108 
+ RREF HZ IP     D 2350 35.03                             131   -0.0110 93.7  79 
+ RREF HN ES   1   2350 49.00                             131   -0.34 7 93.7  79 
+ RREF HZ I        2350 51.53      1076.8 0.24                          93.7  79 
+ TOL  SZ EP       2350 34.63                             130   -0.2810 96.5 100 
+ GUY  SZ EP       2350 35.90                             128    0.2610  102  59 
+ GUY  SN ES   1   2350 50.52                             128    0.10 7  102  59 
+ GUY  SZ I        2350 53.04      1033.5 0.24                           102  59 
+ HORQ SZ EP   1   2350 39.70                             117   -0.46 7  148 200 
+ HORQ SN ES   1   2350 58.97                             117    0.51 7  148 200 
+ HORQ SZ I        2351  1.16       799.2 0.56                           148 200 
+ HEL  HZ EP       2350 43.31                             113   -0.08 9  176  24 
+ HEL  HZ I        2351  6.73       309.2 0.18                           176  24 
+ PRA  HZ IP     D 2350 44.01                             111    0.21 9  183 128 
+ PRA  HN ES   1   2351  5.20                             111    0.26 7  183 128 
+ MARA HZ EP   1   2350 47.49                             108    0.07 6  211 173 
+ MARA HN ES   1   2351 10.66                             108   -0.72 6  211 173 
+ MARA HZ I        2351 13.25       304.9 0.62                           211 173 
+ CHI  HN ES       2351 25.39                             104    1.02 8  272  93 
+ PTB  HZ EP   1   2350 55.05                             104    0.36 6  275  44 
+ PTB  HE ES   1   2351 24.40                             104    0.07 6  275  44 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

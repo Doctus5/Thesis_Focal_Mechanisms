@@ -1,0 +1,54 @@
+ 2009 11 2 2216 52.7 L   4.699 -76.116 83.0  RSN 19 0.5 3.4LRSN                1
+ GAP= 79        1.17       3.3     5.1 10.4 -0.1310E+01  0.2719E+02 -0.4158E+00E
+ Epicentro: ARGELIA - VALLE                                                    3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20091102221652 L   I
+ 2009-11-02-2214-57S.COL___093                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ANIL BN ES   1   2217 21.45                             131    -0.2 7   82 106 
+ RREF BE ES   1   2217 23.76                             130     0.3 7   88  75 
+ GUY  HE ES   2   2217 25.11                             125    -0.3 5  101  55 
+ PRA  HE ES   1   2217 39.31                             110     0.6 7  175 129 
+ HEL  BN ES   1   2217 40.05                             110     0.0 7  177  21 
+ MARA BE ES   1   2217 45.31                             107    -0.5 6  206 175 
+ SOL  SZ EP       2217 23.73                             105    -0.3 8  222 320 
+ BET  SZ EP   1   2217 25.73                             104     0.0 6  235 161 
+ BET  SZ I        2217 54.68       191.9 0.20                           235 161 
+ DBB  SZ EP       2217 28.40                             103     0.0 8  257 358 
+ BRR  HN ES   2   2218 21.72                              98    -0.2 3  377  45 
+ MON  HZ EP       2217 52.27                              97     0.0 5  453   6 
+ ANIL BZ IP     D 2217  8.54                             131             82 106 
+ ANIL BZ I        2217  9.14      1907.7 0.26                            82 106 
+ BAR2 SZ EP     D 2217 44.67                              98            386  57 
+ BRR  HZ I        2217 43.33        65.8 0.45                           377  45 
+ BRR  HZ EP     C 2217 42.32                                                    
+ CHI  HN ES   2   2217 58.59                             103     0.0 4  265  92 
+ CHI  HT ES     C 2218  0.52                                                    
+ CHI  HZ IP     D 2217 31.02                             103            265  92 
+ CHI  HZ I        2217 31.74        94.0 0.65                           265  92 
+ CHI  HZ ES     C 2218  1.03                                                    
+ CRU  SZ EP     C 2217 41.02                                                    
+ FLO2 BZ EP     D 2217 37.63                                                    
+ GIR  SZ EP     C 2217 47.96                              97            417  51 
+ GUA  SZ EP     D 2217 51.92                                                    
+ GUY  HZ IP     D 2217 10.98                             125            101  55 
+ HEL  BZ EP     C 2217 18.92                             110            177  21 
+ HEL  BZ I        2217 43.54       179.7 0.65                           177  21 
+ MAL  SZ IP     C 2217 17.27                             113            155 241 
+ MAL  SZ I        2217 18.00       251.4 0.15                           155 241 
+ MARA BZ EP     D 2217 22.47                             107            206 175 
+ MARA BT ES     C 2217 45.17                                                    
+ OCA  SZ EP     C 2217 57.85                                                    
+ PCON BZ EP     C 2217 29.83                             103            264 187 
+ PCON BZ I        2218  2.51       166.7 0.58                           264 187 
+ PRA  HZ IP     D 2217 18.56                             110            175 129 
+ PRA  HZ I        2217 19.24       488.5 0.36                           175 129 
+ PRA  HT ES     C 2217 40.21                                                    
+ RREF BZ IP     D 2217  9.97                             130             88  75 
+ RREF BZ I        2217 24.85      1221.5 0.53                            88  75 
+ RREF BZ ES     C 2217 23.94                                                    
+ RREF BZ  AMPG    2217 10.35      8646.0 0.32                                   
+ RREF BZ  AMSG    2217 24.54     33433.5 0.36                                   
+ RREF BT ES     D 2217 23.97                                                    
+ RREF BT  AMSG    2217 24.68     13173.0 0.24                                   
+ SOTA BZ EP     D 2217 32.40                             101            289 191 
+                                                                                

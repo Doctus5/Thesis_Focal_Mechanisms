@@ -1,0 +1,36 @@
+ 2007  131 1641  3.1 L   4.678 -76.283155.8  RSN 10 0.7 3.5LRSN                1
+ GAP= 86        1.52       9.8     8.5 24.1 -0.2436E+02 -0.4104E+02  0.1954E+02E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20070131164102 L   I
+ 2007-01-31-1640-00S.COL___018                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PRA  SZ IP     D 1641 34.03                                    -0.6 9  188 125 
+ PRA  SZ I        1641 57.64       861.3  0.7                           188 125 
+ ROSC BE ES   1   1642  5.58                                     0.2 7  218  85 
+ BAR  SZ EP     C 1641 59.08                                            407  58 
+ CRU  SZ EP     C 1641 52.72                                            352 192 
+ CRU  SZ I        1642 35.22       130.0 0.70                           352 192 
+ CRU  SZ ES     D 1642 28.41                                                    
+ CRU  SZ  AMSG    1642 31.03       644.5 0.53                                   
+ CRU  SZ  AMPG    1641 53.87       480.0 0.53                                   
+ FLO  SZ I        1642 30.16        99.0 1.00                           357 168 
+ FLO  SZ IP     D 1641 51.80                                                    
+ HEL  SZ EP     C 1641 34.27                                            190  25 
+ HEL  SZ ES   2   1641 59.92                                    -0.6 5  190  25 
+ HEL  SZ I        1642  0.69       119.3 0.70                           190  25 
+ MAL  SZ IP     C 1641 29.99                                     0.010  138 238 
+ MAL  SZ ES   2   1641 51.90                                     0.9 5  138 238 
+ MAL  SZ I        1641 56.97       836.5 0.30                           138 238 
+ MAL  SZ  AMSG    1641 52.65      8796.0 0.20                                   
+ MAL  SZ  AMPG    1641 30.42      6374.0 0.13                                   
+ OCA  SZ EP   2   1642 12.31                                     1.1 2  512  40 
+ OCA  SZ I        1643  8.77        73.0 0.60                           512  40 
+ ROSC BZ IP     C 1641 39.13                                     1.0 9  218  85 
+ ROSC BZ I        1641 39.70        98.7 0.70                           218  85 
+ ROSC BZ  AMPG    1641 39.38      3349.0 0.30                                   
+ ROSC BT ES     C 1642  6.25                                                    
+ ROSC BT  AMSG    1642  6.96      2801.8 0.65                                   
+ RUS  SZ EP     C 1641 57.04                                            381  69 
+ SOL  SZ EP     C 1641 37.08                                            212 324 
+ SOL  SZ I        1642  3.70       106.8 0.40                           212 324 
+                                                                                

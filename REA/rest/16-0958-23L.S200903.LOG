@@ -1,0 +1,41 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2016-08-08 09:57:49
+The operator was: rest
+The s-file content at creation:
+ 2009  316 0958 23.6 L   4.743 -76.298108.0  RSN 14 0.5 3.3LRSN                1
+ GAP= 88        1.07       3.6     4.6 11.5 -0.1593E+01  0.2436E+02  0.6902E+00E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20090316095823 L   I
+ 2009-03-16-0953-45S.COL___061                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RREF BZ IP     D  958 44.81                             132     0.110  107  81 
+ RREF BE ES   1    959  0.91                             132    -0.2 7  107  81 
+ TOL  SZ IP     D  958 44.38                             131    -0.210  110  99 
+ TOL  SZ ES   1    959  0.72                             131    -0.1 7  110  99 
+ MAL  SZ IP     C  958 48.05                             123     1.010  141 235 
+ MAL  SZ ES   2    959  5.56                             123     0.2 5  141 235 
+ MAL  SZ I         959 15.87       786.2 0.26                           141 235 
+ HEL  BZ EP        958 51.44                             116    -0.5 9  181  28 
+ HEL  BE ES   1    959 13.50                             116    -0.4 7  181  28 
+ HEL  BZ I         959 15.60       151.8 0.50                           181  28 
+ PRA  HZ EP        958 52.72                             114    -0.1 9  194 126 
+ PRA  HE ES   1    959 15.98                             114     0.4 7  194 126 
+ VR2Z SZ EP        958 53.55                             113    -0.5 9  198 172 
+ VR2N SN ES   2    959 16.94                             113    -0.8 4  198 172 
+ SOL  SZ IP     C  958 53.80                             112    -0.2 9  205 323 
+ SOL  SZ I         959 24.42       195.5 0.41                           205 323 
+ DBB  SZ EP   1    958 59.93                             107     0.4 6  252   2 
+ DBB  SZ ES   2    959 27.67                             107     0.2 4  252   2 
+ PCON BZ EP   1    959  2.07                             106     0.1 6  267 182 
+ PCON BE ES   1    959 31.26                             106    -0.5 6  267 182 
+ CHI  HZ EP   1    959  5.26                             105     1.4 6  285  92 
+ CHI  HE ES   2    959 36.11                             105     1.0 4  285  92 
+ CHI  HZ I         959 49.80        78.1 0.77                           285  92 
+ CRU  SZ EP   1    959 12.18                             100    -0.3 5  358 192 
+ CRU  SZ I         959 55.66       127.7 0.36                           358 192 
+ BAR  SZ EP   2    959 17.68                              98     0.2 3  401  59 
+ GCUF BZ EP   1    959 17.58                              98    -0.8 4  406 197 
+ GCUF BZ I        10 0  2.62        34.8 0.23                           406 197 
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------

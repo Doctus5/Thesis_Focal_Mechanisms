@@ -1,0 +1,45 @@
+ 2007  517 0056 59.1 L   4.739 -76.062129.1  RSN 11 0.7 3.7LRSN                1
+ GAP= 80        1.31       9.1     7.1 14.2 -0.8610E+01  0.3876E+02 -0.2275E+02E
+ Epicentro: ARGELIA - VALLE                                                    3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20070517005659 L   I
+ 2007-05-17-0056-00S.COL___018                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ 1151 HE ES   2    058  7.12                                     0.4 4  259  93 
+ 1151 HZ EP     C  057 37.16                                            259  93 
+ BAR  SZ EP     C  057 50.22                                            383  56 
+ BAR  SZ ES   2    058 31.23                                    -0.7 3  383  56 
+ BAR  SZ I         058 31.71        75.1 0.60                           383  56 
+ CUM  SZ EP     C  058  1.03                                            472 205 
+ FLO  SZ EP     C  057 46.78                                            360 172 
+ GUA  SZ EP     D  057 57.92                                                    
+ MAL  SZ EP     C  057 27.05                                            163 240 
+ MAL  SZ I         057 27.68       917.0 0.10                           163 240 
+ MAL  SZ ES     C  057 50.95                                                    
+ MAL  SZ  AMSG     057 51.18     10354.5 0.27                                   
+ MAL  SZ  AMPG     057 27.65     29476.0 0.10                                   
+ OCA  SZ EP     C  058  3.18                                            492  38 
+ OCA  SZ I         058 54.93       187.0 0.90                           492  38 
+ OCA  SZ ES     C  058 52.29                                                    
+ OCA  SZ  AMSG     058 53.85      2219.0 0.20                                   
+ OCA  SZ  AMPG     058  4.05      2586.5 0.17                                   
+ POP  SZ EP     C  057 36.88                                            259 191 
+ POP  SZ I         058  9.64       629.8 0.20                           259 191 
+ PRA  SZ IP     D  057 27.18                                    -0.1 9  173 132 
+ PRA  SZ ES     D  057 48.95                                            173 132 
+ PRA  SZ I         057 51.77       282.3 0.90                           173 132 
+ PRA  SZ  AMPG     057 28.20      1933.5 0.17                                   
+ PRA  SZ  AMSG     057 49.41      2014.5 0.33                                   
+ ROSC BZ IP     C  057 30.57                                     0.8 9  193  86 
+ ROSC BZ I         057 31.26       218.9 0.70                           193  86 
+ ROSC BZ  AMPG     057 30.81      6453.0 0.50                                   
+ ROSC BZ ES     C  057 55.09                                                    
+ ROSC BZ  AMSG     057 56.83      3306.0 1.20                                   
+ ROSC BT ES     C  057 56.40                                                    
+ ROSC BT  AMSG     057 56.79      4412.0 0.55                                   
+ SOL  SZ EP     D  057 31.38                                            222 318 
+ TOL  SZ I         057 19.87      2145.5 0.60                            82 102 
+ TOL  SZ ES     D  057 35.30                                             82 102 
+ TOL  SZ IP     D  057 19.37                                                    
+ TOL  SZ  AMSG     057 35.76     21786.5 0.23                                   
+ TOL  SZ  AMPG     057 19.78     38131.5 0.13                                   
+                                                                                

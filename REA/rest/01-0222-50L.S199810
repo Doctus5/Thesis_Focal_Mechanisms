@@ -1,0 +1,33 @@
+ 1998 10 1 0222 50.5 L   4.960 -76.070124.1  RSN 10 0.7 3.3LRSN                1
+ GAP=112        0.89       5.0     5.3 13.6 -0.1750E+01  0.7737E+01  0.1399E+02E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:19981001022250 L   I
+ 1998-10-01-0222-08S.COL___010                                                 6
+ 1998 10 1  222 49.8 L   4.953 -76.058130.0F COL 10 0.6 3.6LCOL                1
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ BAR  SZ EP     C  223 40.59                                            371  60 
+ BAR  SZ ES     D  224 17.91                                            371  60 
+ BAR  SZ I         224 23.46        58.5 0.70                           371  60 
+ CRU  SZ EP     C  223 43.74                                            395 194 
+ CRU  SZ ES     C  224 23.44                                            395 194 
+ CUM  SZ EP     D  223 56.22                                            494 204 
+ GUA  SZ EP     D  223 51.90                                            466 125 
+ MUN  SZ EP     C  223 32.19                                            292 200 
+ MUN  SZ ES     C  224  2.90                                            292 200 
+ MUN  SZ I         224  9.26        78.8 0.30                           292 200 
+ RUS  SZ EP     C  223 38.35                                            349  72 
+ RUS  SZ ES   3    224 14.94                                    -1.4 2  349  72 
+ SOL  SZ EP     D  223 22.76                                            219 315 
+ SOL  SZ ES     C  223 49.48                                            219 315 
+ CHI  SZ EP     D  223 29.52                                            262  98 
+ CHI  SZ ES     C  223 57.82                                            262  98 
+ CHI  SZ  AMPG     223 30.46       431.0 0.33                                   
+ CHI  SZ  AMSG     224  0.37       484.0 0.63                                   
+ HEL  SZ IP     C  223 16.55                                            152  22 
+ HEL  SZ ES     C  223 35.53                                            152  22 
+ HEL  SZ  AMPG     223 16.86      5125.0 0.23                                   
+ HEL  SZ  AMSG     223 36.55      3927.0 0.50                                   
+ TOL  SZ EP     D  223 11.85                                             91 117 
+ TOL  SZ ES     D  223 27.38                                             91 117 
+ TOL  SZ  AMPG     223 12.44     17302.0 0.33                                   
+ TOL  SZ  AMSG     223 27.66      5728.5 0.30                                   
+                                                                                

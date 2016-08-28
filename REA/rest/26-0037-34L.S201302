@@ -1,0 +1,91 @@
+ 2013  226 0037 34.2 L   4.657 -76.298112.0  RSN 20 0.6 2.7LRSN 3.3WRSN        1
+ SPEC AVERAGE  MO 14.1 ST  2.1 OM  1.9 f0 3.17 R0.8980 AL 2.16 WI 23.5 MW  3.3 3
+ SPEC SD       MO  0.2 ST  4.6 OM  0.6 f00.776 R0.2961 AL      WI      MW  0.2 3
+ GAP= 86        1.24       2.9     4.8  7.2 -0.5307E+01  0.1262E+02 -0.2232E+01E
+ Epicentro: EL CAIRO - VALLE                                                   3
+ SPEC SOTAHH Z MO 14.0 ST0.609 OM  1.4 f0 3.02 R0.9311 AL 1.71 WI 25.5 MW  3.3 3
+ SPEC SOTAHH Z T 03814 K 0.000 GD  302 VP 7.60 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC PCONHH Z MO 14.3 ST0.844 OM  1.7 f0 2.74 R1.0263 AL 1.86 WI 27.2 MW  3.5 3
+ SPEC PCONHH Z T 03812 K 0.000 GD  281 VP 7.60 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC POP2HH Z MO 13.9 ST0.169 OM  1.3 f0 2.23 R1.2610 AL 1.43 WI 23.2 MW  3.2 3
+ SPEC POP2HH Z T 038 8 K 0.000 GD  263 VP 7.60 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC HEL HH Z MO 13.6 ST0.928 OM  1.1 f0 4.86 R0.5786 AL 2.28 WI 18.7 MW  3.0 3
+ SPEC HEL HH Z T 038 3 K 0.000 GD  220 VP 7.60 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC MAL SH N MO 14.2 ST 12.7 OM  2.6 f0 3.97 R0.3914 AL 3.73 WI 38.4 MW  3.4 3
+ SPEC MAL SH N T 03817 K 0.000 GD  175 VS 4.20 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC NIMAEN Z MO 14.2 ST 19.6 OM  1.8 f0 4.51 R0.3259 AL 1.74 WI 12.0 MW  3.4 3
+ SPEC NIMAEN Z T 03756 K 0.000 GD  166 VP 7.60 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC FLO2HH Z MO 14.0 ST0.803 OM  1.3 f0 3.36 R0.8369 AL 2.33 WI 10.9 MW  3.3 3
+ SPEC FLO2HH Z T 03821 K 0.000 GD  364 VP 7.60 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC DBB SH Z MO 14.1 ST0.526 OM  1.5 f0 2.72 R1.0338 AL 2.24 WI 28.5 MW  3.4 3
+ SPEC DBB SH Z T 03812 K 0.000 GD  284 VP 7.60 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ SPEC ANILHH Z MO 14.2 ST0.545 OM  1.9 f0 2.50 R1.1248 AL 1.71 WI 15.7 MW  3.4 3
+ SPEC ANILHH Z T 03754 K 0.000 GD  150 VP 7.60 DE 3.20 Q0300.0 QA 0.60 VS 4.20 3
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20130226003734 L   I
+ 2013-02-26-0028-46M.COL___191                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ YOT  HE ES        038  7.04                             144    0.6910 74.6 184 
+ ANIL HN I         038 13.75       301.1 0.22            154            101 100 
+ RREF HN ES        038 13.13                             133    0.5610  109  76 
+ HEL  HE I         038 30.79        40.7 0.46            118            190  27 
+ PCON HE ES        038 40.34                             108   -0.34 8  258 182 
+ SOTA HE ES        038 44.84                             106   -0.49 7  281 187 
+ CHI  HE ES   1    038 46.74                             106    0.81 6  285  90 
+ FLO2 HN ES   4    038 56.47                             102   -1.80 0  347 168 
+ BET  SZ EP     D  038  8.55                             110            238 156 
+ BET  SZ I         038  9.36        22.4 0.15            115            238 156 
+ ANIL HT ES     D  038 10.49                                                    
+ ANIL HZ EP     D  037 54.32                                                    
+ ANIL HZ ES     C  038 10.36                                                    
+ ANIL HZ  AMPG     037 54.55      2797.0 0.26                                   
+ ANIL HZ  AMSG     038 10.63      6404.0 0.38                                   
+ CBMALEZ EP     C  037 58.34                                                    
+ CHI  HT ES     D  038 48.24                                                    
+ CHI  HZ I         038 17.95        11.4 0.50            112            285  90 
+ CHI  HZ EP     C  038 16.24                                                    
+ CHI  HZ ES     D  038 48.15                                                    
+ CRU  SZ I         039  3.99        18.1 0.38            104            349 192 
+ CYOTOEZ EP     C  037 52.77                                                    
+ DBB  SZ EP   1    038 12.17                             108    0.81 6  261   2 
+ DBB  SZ I         038 46.58        41.7 0.36            108            261   2 
+ DBB  SZ ES     C  038 40.60                                                    
+ FLO2 HZ EP     D  038 21.23                             102            347 168 
+ FLO2 HZ I         038 21.71        26.6 0.24            105            347 168 
+ GOR  SZ EP     D  038 11.35                             107            277 229 
+ GOR  SZ I         038 13.34        12.7 0.10            106            277 229 
+ HEL  HZ EP     D  038  3.70                             116            190  27 
+ HEL  HT ES     C  038 26.22                                                    
+ MAL  SZ IP     D  037 58.40                             126            135 238 
+ MAL  ST ES     C  038 18.50                                                    
+ MARA HN ES        038 28.48                             114   -0.70 9  204 169 
+ MARA HN IP     C  038  5.48                                                    
+ MARA HZ I         038  7.37       171.8 0.14            119            204 169 
+ MARA HZ IP     D  038  5.48                                                    
+ MARA HT ES     C  038 29.11                                                    
+ NIMA EZ EP     D  037 56.29                                                    
+ PAL  HZ EP     D  037 49.59                             165           27.5   4 
+ PAL  HT ES     C  038  4.93                                                    
+ PCON HZ I         038 45.69        51.8 0.50            111            258 182 
+ PCON HT ES     C  038 40.18                                                    
+ POP2 HZ EP     C  038  8.49                             110            238 190 
+ POP2 HT ES     C  038 33.52                                                    
+ PTB  HT ES     C  038 45.75                                                    
+ PTB  HZ I         038 15.13        19.3 0.18            109            292  44 
+ PTB  HZ ES     D  038 45.61                             106            292  44 
+ PTB  HZ IP     C  038 14.76                                                    
+ ROSC BZ EP     C  038  8.72                                                    
+ ROSC BT ES     D  038 36.32                                                    
+ RREF HZ I         038 14.61       115.0 0.44            147            109  76 
+ RREF HZ IP     C  037 56.26                                                    
+ RREF HZ ES     D  038 13.13                                                    
+ RREF HZ  AMSG     038 13.59      3657.0 0.24                                   
+ RREF HT ES     D  038 13.12                                                    
+ RREF HT  AMSG     038 14.13      7784.4 0.30                                   
+ RUS  HZ EP     D  038 26.99                                                    
+ SOL  SZ EP     C  038  5.39                             113            213 325 
+ SOTA HZ EP     C  038 14.06                             106            281 187 
+ VIL  ST ES     C  038 50.85                                                    
+ VIL  SZ EP   2    038 17.37                             105    1.97 4  295 102 
+ VIL  SZ ES     D  038 50.59                                                    
+ YOT  HZ EP     D  037 52.43                             144           74.6 184 
+                                                                                

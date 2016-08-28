@@ -1,0 +1,26 @@
+ 2000  523 2013 14.2 L   4.933 -76.111116.7  RSN  7 0.8 3.3LRSN                1
+ GAP=150        1.16       8.6     8.8 20.5 -0.3218E+02  0.2277E+02 -0.1062E+02E
+ ACTION:SPL 16-07-19 20:20 OP:lp   STATUS:               ID:20000523201314 L   I
+ 2000-05-23-2012-38S.COL___009                                                 6
+ 2000  523 2013 13.3 L   4.931 -76.163120.0F COL  7 0.9 3.5LCOL                1
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ CHI  SZ EP     C 2013 53.30                                            266  97 
+ CHI  SZ I        2013 54.24        79.3 0.90                           266  97 
+ MAL  SZ EP     C 2013 41.68                                            170 233 
+ BAR  SZ EP     D 2014  5.41                                            376  60 
+ CRU  SZ EP     D 2014  6.24                                            391 194 
+ CRU  SZ ES     D 2014 44.14                                            391 194 
+ CRU  SZ I        2014 48.07        54.8 0.50                           391 194 
+ CRU  SZ  AMSG    2014 46.06       574.0 0.33                                   
+ CRU  SZ  AMPG    2014  6.58       425.0 0.10                                   
+ HEL  SZ EP     C 2013 39.92                                            157  23 
+ HEL  SZ ES     D 2014  0.46                                            157  23 
+ HEL  SZ I        2014  1.16       218.8 0.50                           157  23 
+ HEL  SZ  AMSG    2014  1.19      2105.0 0.43                                   
+ HEL  SZ  AMPG    2013 40.49      1333.5 0.13                                   
+ TOL  SZ IP   0 D 2013 34.15                                    -0.310   94 114 
+ TOL  SZ ES     D 2013 50.12                                             94 114 
+ TOL  SZ I        2013 52.04       652.2 0.30                            94 114 
+ TOL  SZ  AMPG    2013 34.81     18781.0 0.17                                   
+ TOL  SZ  AMSG    2013 50.26      8494.0 0.20                                   
+                                                                                
