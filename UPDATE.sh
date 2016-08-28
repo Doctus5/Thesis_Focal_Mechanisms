@@ -17,6 +17,7 @@ date >> 'history.txt'
 echo "Done"
 sleep 2
 echo "Beginnig Git upload of REA data"
+rm UPDATE.sh~
 git add *
 git commit -m "Actualizacion de datos"
 git push -u origin master
